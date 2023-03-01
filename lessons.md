@@ -24,7 +24,7 @@ document.write('Hello World')
 ## :black_square_button: **Activité 2**
 <!-- ## :white_check_mark: **Activité 2** -->
 
-|Installer les outils TIC les plus utilisés par les développeurs.|
+|Installer les outils TIC constamment utilisés par les développeurs.|
 |:---|
 - [x] Un éditeur de code source : Visual Studio Code ![](./rsc/visual-studio-code-small.png).
 - [x] Un interpréteur : NodeJS ![](./rsc/nodejs-small.png).
