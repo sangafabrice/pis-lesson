@@ -15,12 +15,16 @@
 ```js
 console.log('Hello World')
 ```
+- [ ] Faire de même pour :
+```js
+document.write('Hello World')
+```
 <br>
 
 ## :black_square_button: **Activité 2**
 <!-- ## :white_check_mark: **Activité 2** -->
 
-|Installer les outils les plus utilisés (TIC) par les développeurs.|
+|Installer les outils TIC les plus utilisés par les développeurs.|
 |:---|
 - [x] Un éditeur de code source : Visual Studio Code ![](./rsc/visual-studio-code-small.png).
 - [x] Un interpréteur : NodeJS ![](./rsc/nodejs-small.png).
