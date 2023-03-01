@@ -1,5 +1,5 @@
-## :black_square_button: **Activité 1**
-<!-- ## :white_check_mark: **Activité 1** -->
+<!-- ## :black_square_button: **Activité 1** -->
+## :white_check_mark: **Activité 1**
 
 |Coder en **Javascript** un simple programme en utilisant la boucle de lecture-évaluation-impression (Read-Eval-Print Loop, REPL) fournit par un navigateur.|
 |:---|
@@ -20,11 +20,14 @@ document.write('Hello World')
 ```
 
 ### Théorie
+
+Le [Langage de Programmation](https://www.techno-science.net/glossaire-definition/Langage-de-programmation.html) permet d'écrire un **code source** qui sera analysé par une machine. Cette dernière transforme le code source dans une forme exploitable par la machine cible située à un niveau plus bas. C'est cette forme qu'on appelle **programme**.
+
 ---
 <br>
 
-## :black_square_button: **Activité 2**
-<!-- ## :white_check_mark: **Activité 2** -->
+<!-- ## :black_square_button: **Activité 2** -->
+## :white_check_mark: **Activité 2**
 
 |Installer les outils TIC constamment utilisés par les développeurs.|
 |:---|
