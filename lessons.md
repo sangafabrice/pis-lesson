@@ -4,7 +4,7 @@
 
 |Coder un simple programme en utilisant la boucle de lecture-évaluation-impression (Read-Eval-Print Loop, REPL) fournit par un navigateur.|
 |:---|
-- [x] Ouvrir le navigateur **Google Chrome**.
+- [x] Ouvrir le navigateur **Google Chrome** ![](./rsc/google-chrome-small.png).
 - [x] Entrer dans la barre des URLs **about:blank** et suivre le lien.
 - [x] Pour ouvrir le **DevTool**, cliquer sur le menu **`⋮`** et parcourir les options dans cet ordre **More Tools** > **Developer Tools**.
 - [x] Ouvrir l'onglet **Console** et cliquer sur le **REPL** ou **Shell**.
