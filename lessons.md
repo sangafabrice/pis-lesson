@@ -37,10 +37,9 @@ Javascript est un langage de programmation de **haut niveau** parce qu'il est pl
 - [x] Un interpréteur : NodeJS ![](./rsc/nodejs-small.png).
 - [x] Un gestionnaire de version : Git ![](./rsc/git-small.png).
 - [x] Un navigateur: Google Chrome ![](./rsc/google-chrome-small.png).
-- [x] Un shell : Command Prompt ou PowerShell ![](./rsc/powershell-small.png)[^2].
+- [x] Un shell : Command Prompt ou PowerShell ![](./rsc/powershell-small.png).
 
 <br>
 <br>
 
 [^1]: Un racourci clavier existe pour ouvrir le DevTool: **`Ctrl`+`Shift`+`I`**
-[^2]: <a target="_blank" href="https://icons8.com/icon/59500/powershell">PowerShell</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
