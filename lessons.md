@@ -1,12 +1,11 @@
-
 ## :black_square_button: **Activité 1**
 <!-- ## :white_check_mark: **Activité 1** -->
 
-|Coder un simple programme en utilisant la boucle de lecture-évaluation-impression (Read-Eval-Print Loop, REPL) fournit par un navigateur.|
+|Coder en **Javascript** un simple programme en utilisant la boucle de lecture-évaluation-impression (Read-Eval-Print Loop, REPL) fournit par un navigateur.|
 |:---|
 - [x] Ouvrir le navigateur **Google Chrome** ![](./rsc/google-chrome-small.png).
 - [x] Entrer dans la barre des URLs **about:blank** et suivre le lien.
-- [x] Pour ouvrir le **DevTool**, cliquer sur le menu **`⋮`** et parcourir les options dans cet ordre **More Tools** > **Developer Tools**.
+- [x] Pour ouvrir le **DevTool**[^1], cliquer sur le menu **`⋮`** et parcourir les options dans cet ordre **More Tools** > **Developer Tools**.
 - [x] Ouvrir l'onglet **Console** et cliquer sur le **REPL** ou **Shell**.
 - [x] Entrer **`con`** et parcourir le menu déroulant qui s'ouvre et choisir **`console`**.
 - [x] Entrer l'opérateur **`.`** et **`l`** à la suite de **`console`** et l'invite de commande du Shell complétera automatiquement avec **`.log`**. Pour confirmer l'option, appuyer la touche **`→`** des boutons de direction.
@@ -19,6 +18,9 @@ console.log('Hello World')
 ```js
 document.write('Hello World')
 ```
+
+### Théorie
+---
 <br>
 
 ## :black_square_button: **Activité 2**
@@ -30,9 +32,10 @@ document.write('Hello World')
 - [x] Un interpréteur : NodeJS ![](./rsc/nodejs-small.png).
 - [x] Un gestionnaire de version : Git ![](./rsc/git-small.png).
 - [x] Un navigateur: Google Chrome ![](./rsc/google-chrome-small.png).
-- [x] Un shell : Command Prompt ou PowerShell ![](./rsc/powershell-small.png)[^1].
+- [x] Un shell : Command Prompt ou PowerShell ![](./rsc/powershell-small.png)[^2].
 
 <br>
 <br>
 
-[^1]: <a target="_blank" href="https://icons8.com/icon/59500/powershell">PowerShell</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+[^1]: Un racourci clavier existe pour ouvrir le DevTool: **`Ctrl`+`Shift`+`I`**
+[^2]: <a target="_blank" href="https://icons8.com/icon/59500/powershell">PowerShell</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
