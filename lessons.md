@@ -29,6 +29,7 @@ document.write('Hello World')
 - [x] Un éditeur de code source : Visual Studio Code ![](./rsc/visual-studio-code-small.png).
 - [x] Un interpréteur : NodeJS ![](./rsc/nodejs-small.png).
 - [x] Un gestionnaire de version : Git ![](./rsc/git-small.png).
+- [x] Un navigateur: Google Chrome ![](./rsc/google-chrome-small.png).
 - [x] Un shell : Command Prompt ou PowerShell ![](./rsc/powershell-small.png)[^1].
 ```js
 console.log('Hello World')
