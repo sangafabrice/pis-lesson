@@ -23,8 +23,7 @@ document.write('Hello World')
 
 Le [Langage de Programmation](https://www.techno-science.net/glossaire-definition/Langage-de-programmation.html) permet d'écrire un **code source** qui sera analysé par une machine. Cette dernière transforme le code source dans une forme exploitable par la machine cible située à un niveau plus bas. C'est cette forme qu'on appelle **programme**.
 
-Javascript est un langage de programmation de **haut niveau** parce qu'il est plus proche du langage naturel que du langage machine. La machine qui analyse le code source écrit en Javascript est le moteur Javascript. _Le moteur JavaScript le plus populaire est celui qui est intégré dans Google Chrome et NodeJS : V8.
-_
+Javascript est un langage de programmation de **haut niveau** parce qu'il est plus proche du langage naturel que du langage machine. La machine qui analyse le code source écrit en Javascript est le moteur Javascript. _Le moteur JavaScript le plus populaire est celui qui est intégré dans Google Chrome et NodeJS : V8._
 
 ---
 <br>
