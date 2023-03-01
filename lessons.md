@@ -1,11 +1,11 @@
 <!-- ## :black_square_button: **Activité 1** -->
 ## :white_check_mark: **Activité 1**
 
-|Coder en **Javascript** un simple programme en utilisant la boucle de lecture-évaluation-impression (Read-Eval-Print Loop, REPL) fournit par un navigateur.|
+|Coder en **Javascript** un simple programme en utilisant la boucle de lecture-évaluation-impression (Read-Eval-Print Loop, REPL) fournit par un navigateur web.|
 |:---|
-- [x] Ouvrir le navigateur **Google Chrome** ![](./rsc/google-chrome-small.png).
+- [x] Ouvrir l'un ou l'autre des navigateurs **Google Chrome** ![](./rsc/google-chrome-small.png) et **Microsoft Edge** ![](./rsc/microsoft-edge-small.png).
 - [x] Entrer dans la barre des URLs **about:blank** et suivre le lien.
-- [x] Pour ouvrir le **DevTool**[^1], cliquer sur le menu **`⋮`** et parcourir les options dans cet ordre **More Tools** > **Developer Tools**.
+- [x] Pour ouvrir le **DevTools**[^2], cliquer sur le menu **`⋮`** et parcourir les options dans cet ordre **More Tools** > **Developer Tools**.
 - [x] Ouvrir l'onglet **Console** et cliquer sur le **REPL** ou **Shell**.
 - [x] Entrer **`con`** et parcourir le menu déroulant qui s'ouvre et choisir **`console`**.
 - [x] Entrer l'opérateur **`.`** et **`l`** à la suite de **`console`** et l'invite de commande du Shell complétera automatiquement avec **`.log`**. Pour confirmer l'option, appuyer la touche **`→`** des boutons de direction.
@@ -42,4 +42,5 @@ Javascript est un langage de programmation de **haut niveau** parce qu'il est pl
 <br>
 <br>
 
-[^1]: Un racourci clavier existe pour ouvrir le DevTool: **`Ctrl`+`Shift`+`I`**
+[^1]: Ouvrir le navigateur Microsoft Edge ![](./rsc/microsoft-edge-small.png) au cas où Google Chrome n'est pas installé.
+[^2]: Un racourci clavier existe pour ouvrir le DevTool: **`Ctrl`+`Shift`+`I`**
