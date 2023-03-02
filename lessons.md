@@ -22,7 +22,7 @@ document.write('Hello World')
 
 Le [Langage de Programmation](http://deptinfo.cnam.fr/Enseignement/CycleA/AMSI/cours_systemes/04_traduction/traduc.htm) permet d'écrire un **code source** qui est analysé par un **traducteur** et transformé par ce dernier dans une forme exploitable par la machine cible.
 
-Javascript est un langage de programmation de **haut niveau** parce qu'il est plus proche du langage naturel que du langage machine. Le traducteur qui évalue le programme source en Javascript est le **moteur Javascript**. Le plus populaire est **V8** ![](./rsc/v8-small.png) qui est intégré dans les navigateurs basés sur Chromium ![](./rsc/chromium-small.png).
+Javascript ![](./rsc/javascript-small.png) est un langage de programmation de **haut niveau** parce qu'il est plus proche du langage naturel que du langage machine. Le traducteur qui évalue le programme source en Javascript est le **moteur Javascript**. Le plus populaire est **V8** ![](./rsc/v8-small.png) qui est intégré dans les navigateurs basés sur Chromium ![](./rsc/chromium-small.png).
 
 ---
 <br>
@@ -31,12 +31,15 @@ Javascript est un langage de programmation de **haut niveau** parce qu'il est pl
 
 |Organiser son Environnement de Développement _Intégré_ (Integrated Development Environment, IDE) en installant les outils TIC constamment utilisés par les Développeurs Javascript.|
 |:---|
+
 - [x] Un éditeur de code source : Visual Studio Code ![](./rsc/visual-studio-code-small.png).
 - [x] Un interpréteur : NodeJS ![](./rsc/nodejs-small.png).
 - [x] Un gestionnaire de version : Git ![](./rsc/git-small.png).
 - [x] Un navigateur: Google Chrome ![](./rsc/google-chrome-small.png).
 - [x] Un shell : Command Prompt ou PowerShell ![](./rsc/powershell-small.png).
 
+|💡 **Un exemple d'installation: Git** <br> → Suivre le lien suivant : [Download Git for Windows](https://git-scm.com/download/win) <br> → La page presente des liens de telechargement pour systemes 64-bit et 32-bit. Donc il est |
+|:---|
 <br>
 <br>
 
