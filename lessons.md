@@ -31,7 +31,7 @@ Javascript est un langage de programmation de **haut niveau** parce qu'il est pl
 ## ✅ **Activité 2**
 <!-- ## 🔲 **Activité 2** -->
 
-|Installer les outils TIC constamment utilisés par les développeurs.|
+|Organiser son Environnement de Développement _Intégré_ (Integrated Development Environment, IDE) en installant les outils TIC constamment utilisés par les Développeurs Javascript.|
 |:---|
 - [x] Un éditeur de code source : Visual Studio Code ![](./rsc/visual-studio-code-small.png).
 - [x] Un interpréteur : NodeJS ![](./rsc/nodejs-small.png).
