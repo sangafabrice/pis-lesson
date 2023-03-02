@@ -21,7 +21,7 @@ document.write('Hello World')
 
 ### Théorie
 
-Le [Langage de Programmation](https://www.techno-science.net/glossaire-definition/Langage-de-programmation.html) permet d'écrire un **code source** qui sera analysé par un **traducteur**. Cette dernière transforme le code source dans une forme exploitable par la machine cible.
+Le [Langage de Programmation](https://www.techno-science.net/glossaire-definition/Langage-de-programmation.html) permet d'écrire un **code source** qui sera analysé par un **traducteur**. Ce dernier transforme le code source dans une forme exploitable par la machine cible.
 
 Javascript est un langage de programmation de **haut niveau** parce qu'il est plus proche du langage naturel que du langage machine. Le traducteur qui évalue le code source écrit en Javascript est le **moteur Javascript**. Le plus populaire est **V8** ![](./rsc/v8-small.png) qui est intégré dans Google Chrome et NodeJS.
 
