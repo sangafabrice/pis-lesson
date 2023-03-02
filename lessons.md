@@ -4,7 +4,7 @@
 |Coder en **Javascript** un simple programme en utilisant la boucle de lecture-évaluation-impression (Read-Eval-Print Loop, REPL) fournit par un navigateur web.|
 |:---|
 - [x] Ouvrir l'un ou l'autre des navigateurs **Google Chrome** ![](./rsc/google-chrome-small.png) et **Microsoft Edge** ![](./rsc/microsoft-edge-small.png).
-- [x] Entrer dans la barre des URLs **about:blank** ![](./rsc/about-blank.png) et suivre le lien.
+- [x] Entrer dans la barre des URLs [**about:blank**](about:blank) et suivre le lien.
 - [x] Pour ouvrir le **DevTools**[^2], cliquer sur le menu **`⋮`** et parcourir les options dans cet ordre **More Tools** > **Developer Tools**.
 - [x] Ouvrir l'onglet **Console** et cliquer sur le **REPL** ou **Shell**.
 - [x] Entrer **`con`** et parcourir le menu déroulant qui s'ouvre et choisir **`console`**.
