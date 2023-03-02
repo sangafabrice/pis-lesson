@@ -32,7 +32,7 @@ Javascript ![](./rsc/javascript-small.png) est un langage de programmation de **
 |Organiser son Environnement de Développement _Intégré_ (Integrated Development Environment, IDE) en installant les outils TIC constamment utilisés par les Développeurs Javascript.|
 |:---|
 - [x] Un éditeur de code source : Visual Studio Code ![](./rsc/visual-studio-code-small.png).
-- [x] Un interpréteur : NodeJS ![](./rsc/nodejs-small.png).
+- [x] Un traducteur : NodeJS ![](./rsc/nodejs-small.png).
 - [x] Un gestionnaire de version : Git ![](./rsc/git-small.png).
 - [x] Un navigateur: Google Chrome ![](./rsc/google-chrome-small.png).
 - [x] Un shell : Command Prompt ou PowerShell ![](./rsc/powershell-small.png).
