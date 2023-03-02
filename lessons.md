@@ -4,7 +4,7 @@
 |Coder en **Javascript** un simple programme en utilisant la boucle de lecture-évaluation-impression (Read-Eval-Print Loop, REPL) fournit par un navigateur web.|
 |:---|
 - [x] Ouvrir l'un ou l'autre des navigateurs **Google Chrome** ![](./rsc/google-chrome-small.png) et **Microsoft Edge** ![](./rsc/microsoft-edge-small.png).
-- [x] Entrer dans la barre des URLs [about:blank](https://sangafabrice.github.io/redirect.html) et suivre le lien.
+- [x] Entrer dans la barre des URLs [**about:blank**](https://sangafabrice.github.io/redirect.html) et suivre le lien.
 - [x] Pour ouvrir le **DevTools**[^1], cliquer sur le menu **`⋮`** (Chrome) ou **`⋯`** (Edge) et parcourir les options dans cet ordre **More Tools** > **Developer Tools**.
 - [x] Ouvrir l'onglet **Console** et cliquer sur le **REPL** ou **Shell**.
 - [x] Entrer **`con`** et parcourir le menu déroulant qui s'ouvre et choisir **`console`**.
@@ -21,9 +21,9 @@ document.write('Hello World')
 
 ### Théorie
 
-Le [Langage de Programmation](https://www.techno-science.net/glossaire-definition/Langage-de-programmation.html) permet d'écrire un **code source** qui sera analysé par une machine. Cette dernière transforme le code source dans une forme exploitable par la machine cible située à un niveau plus bas. C'est cette forme qu'on appelle **programme**.
+Le [Langage de Programmation](https://www.techno-science.net/glossaire-definition/Langage-de-programmation.html) permet d'écrire un **code source** qui sera analysé par un **traducteur**. Cette dernière transforme le code source dans une forme exploitable par la machine cible.
 
-Javascript est un langage de programmation de **haut niveau** parce qu'il est plus proche du langage naturel que du langage machine. La machine qui évalue le code source écrit en Javascript est le **moteur Javascript**. _Le plus populaire est celui qui est intégré dans Google Chrome et NodeJS : V8 ![](./rsc/v8-small.png)._
+Javascript est un langage de programmation de **haut niveau** parce qu'il est plus proche du langage naturel que du langage machine. Le traducteur qui évalue le code source écrit en Javascript est le **moteur Javascript**. Le plus populaire est **V8** ![](./rsc/v8-small.png) qui est intégré dans Google Chrome et NodeJS.
 
 ---
 <br>
