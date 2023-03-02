@@ -38,7 +38,7 @@ Javascript ![](./rsc/javascript-small.png) est un langage de programmation de **
 - [x] Un navigateur: Google Chrome ![](./rsc/google-chrome-small.png).
 - [x] Un shell : Command Prompt ou PowerShell ![](./rsc/powershell-small.png).
 
-|💡 **Un exemple d'installation: Git** <br> → Suivre le lien suivant : [Download Git for Windows](https://git-scm.com/download/win) <br> → La page presente des liens de telechargement pour systemes 64-bit et 32-bit. Donc il est |
+|💡 **Un exemple d'installation: Git** <br> → Suivre le lien suivant : [Download Git for Windows](https://git-scm.com/download/win) <br> → La page presente des liens de telechargement pour systemes 64-bit et 32-bit. Pour identifier le type d'architecture des processeurs du systeme Windows intalle, ouvrir l'application **System Information** (msinfo32.exe) et lire la valeur de **System Type**.|
 |:---|
 <br>
 <br>
