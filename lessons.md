@@ -1,5 +1,4 @@
-<!-- ## ✅ **Activité 1** -->
-## 🔲 **Activité 1**
+## ✅ **Activité 1**
 
 |Coder en **Javascript** un simple programme en utilisant la boucle de lecture-évaluation-impression (Read-Eval-Print Loop, REPL) fournit par un navigateur web.|
 |:---|
@@ -29,7 +28,6 @@ Javascript est un langage de programmation de **haut niveau** parce qu'il est pl
 <br>
 
 ## ✅ **Activité 2**
-<!-- ## 🔲 **Activité 2** -->
 
 |Organiser son Environnement de Développement _Intégré_ (Integrated Development Environment, IDE) en installant les outils TIC constamment utilisés par les Développeurs Javascript.|
 |:---|
