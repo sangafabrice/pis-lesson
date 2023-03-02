@@ -26,7 +26,7 @@ Javascript ![](./rsc/javascript-small.png) est un langage de programmation de **
 
 ---
 <br>
-
+→ La page présente des liens de téléchargement pour systèmes 64-bit et 32-bit. Pour identifier le type d'architecture des processeurs du système Windows installé, ouvrir l'application **System Information** ![](./rsc/system-information-small.png) (msinfo32.exe) et lire la valeur de System Type.
 ## ✅ **Activité 2**
 
 |Organiser son Environnement de Développement _Intégré_ (Integrated Development Environment, IDE) en installant les outils TIC constamment utilisés par les Développeurs Javascript.|
@@ -38,8 +38,7 @@ Javascript ![](./rsc/javascript-small.png) est un langage de programmation de **
 - [x] Un navigateur: Google Chrome ![](./rsc/google-chrome-small.png).
 - [x] Un shell : Command Prompt ou PowerShell ![](./rsc/powershell-small.png).
 
-|💡 **Un exemple d'installation: Git** <br> → Suivre le lien suivant : [Download Git for Windows](https://git-scm.com/download/win) <br> → La page présente des liens de téléchargement pour systèmes 64-bit et 32-bit. Pour identifier le type d'architecture des processeurs du système Windows installé, ouvrir l'application **System Information** ![](./rsc/system-information-small.png) (msinfo32.exe) et lire la valeur de System Type.|
-|:---|
+|💡 **Un exemple d'installation: Git** <br> → Suivre le lien suivant : [Download Git for Windows](https://git-scm.com/download/win) <br> → La page présente des liens de téléchargement pour systèmes 64-bit et 32-bit. Pour identifier le type d'architecture des processeurs du système Windows installé, ouvrir l'application **System Information** ![](./rsc/system-information-small.png) (msinfo32.exe) et lire la valeur de System Type. → Ensuite il faudra choisir entre l'installation portable qui permet d'executer Git depuis une cle USB ; et l'installateur standalone qui fait une installation complete et avec des valeurs par defaut|
 <br>
 <br>
 
