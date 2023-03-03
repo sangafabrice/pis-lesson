@@ -49,7 +49,10 @@ Le [Langage de Programmation](http://deptinfo.cnam.fr/Enseignement/CycleA/AMSI/c
 - [x] Sélectionner **`Path`** soit dans la section **User variables** ou dans la section **System variables** et appuyer sur **`Edit…`**.
 - [x] Appuyer sur **`New`** et ajouter le chemin dans le champ et confirmer.
 
-### 💡 **Faire de même pour NodeJS et Visual Studio Code**
+### 💡 **Faire de même pour Visual Studio Code et NodeJS**
+- [x] Suivre le lien vers la page de [téléchargement de Visual Studio Code](https://code.visualstudio.com/#alt-downloads).
+- [ ] Identifier les deux versions d'installateur standalone : un installateur pour l'utilisateur courant et un autre qui permet une installation accessible par tous les utilisateurs du system courant.
+- [ ] Identifier les deux versions d'installateur portable : une **installation compressée** et une **application console** (Command-Line Interface, CLI).
 <br>
 <br>
 
