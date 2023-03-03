@@ -8,7 +8,8 @@
 - [x] Pour ouvrir le **DevTools**[^1], parcourir les options dans cet ordre **More Tools** > **Developer Tools**.
 - [x] Ouvrir l'onglet **Console**.
 - [x] Entrer **`con`** et parcourir le menu déroulant qui s'ouvre et choisir **`console`**.
-- [x] Entrer l'opérateur **`.`** et **`l`** à la suite de **`console`** et l'invite de commande du Shell complétera automatiquement avec **`.log`**. Pour confirmer l'option, appuyer la touche **`→`** des boutons de direction.
+- [x] Entrer l'opérateur **`.`** et **`l`** à la suite de **`console`** et **l'invite de commande** complétera automatiquement avec **`.log`**.
+- [x] Pour confirmer l'option, appuyer la touche **`→`** des boutons de direction.
 - [x] Ouvrir les parenthèses et entrer une **chaine de caractères** `'Hello World'` et fermer les parenthèses.
 - [x] Appuyer **`↵`**.
 ```js
@@ -35,7 +36,7 @@ Le [Langage de Programmation](http://deptinfo.cnam.fr/Enseignement/CycleA/AMSI/c
 ######
 |**Un éditeur de code source**|**Un traducteur**|**Un gestionnaire de version**|**Un navigateur web**|**Un shell de langage**|**Un Framework de test**|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|Visual Studio Code<br>![](./rsc/visual-studio-code-small.png)|NodeJS<br>![](./rsc/nodejs-small.png)|Git<br>![](./rsc/git-small.png)|Google Chrome<br>![](./rsc/google-chrome-small.png)|Command Prompt ou PowerShell<br>![](./rsc/powershell-small.png)|Mocha<br>![](./rsc/mochajs-small.png)|
+|Visual Studio Code[^2]<br>![](./rsc/visual-studio-code-small.png)|NodeJS<br>![](./rsc/nodejs-small.png)|Git<br>![](./rsc/git-small.png)|Google Chrome<br>![](./rsc/google-chrome-small.png)|Command Prompt ou PowerShell<br>![](./rsc/powershell-small.png)|Mocha<br>![](./rsc/mochajs-small.png)|
 ######
 ### 💡 **Un exemple d'installation: La version portable de Git**
 
@@ -57,4 +58,5 @@ Le [Langage de Programmation](http://deptinfo.cnam.fr/Enseignement/CycleA/AMSI/c
 <br>
 <br>
 
-[^1]: Un racourci clavier existe pour ouvrir le DevTools: **`Ctrl`+`Shift`+`I`**
+[^1]: Un racourci clavier existe pour ouvrir le DevTools : **`Ctrl`+`Shift`+`I`**.
+[^2]: Une version en ligne est disponible : [vscode.dev](https://vscode.dev/).
