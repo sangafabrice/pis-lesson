@@ -36,7 +36,7 @@ Le [Langage de Programmation](http://deptinfo.cnam.fr/Enseignement/CycleA/AMSI/c
 ######
 |**Un éditeur de code source**|**Un traducteur**|**Un gestionnaire de version**|**Un navigateur web**|**Un terminal**|**Un Framework de test**|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|Visual Studio Code[^2]<br>![](./rsc/visual-studio-code-small.png)|NodeJS<br>![](./rsc/nodejs-small.png)|Git<br>![](./rsc/git-small.png)|Google Chrome<br>![](./rsc/google-chrome-small.png)|Command Prompt ou PowerShell<br>![](./rsc/powershell-small.png)|Mocha<br>![](./rsc/mochajs-small.png)|
+|Visual Studio Code[^2]<br>![](./rsc/visual-studio-code-small.png)|NodeJS<br>![](./rsc/nodejs-small.png)|Git<br>![](./rsc/git-small.png)|Google Chrome<br>![](./rsc/google-chrome-small.png)|Command Prompt ou PowerShell[^3]<br>![](./rsc/powershell-small.png)|Mocha<br>![](./rsc/mochajs-small.png)|
 ######
 ### 💡 **Un exemple d'installation: La version portable de Git**
 
@@ -62,3 +62,4 @@ Le [Langage de Programmation](http://deptinfo.cnam.fr/Enseignement/CycleA/AMSI/c
 
 [^1]: Un racourci clavier existe pour ouvrir le DevTools : **`Ctrl`+`Shift`+`I`**.
 [^2]: Une version en ligne est disponible : [vscode.dev](https://vscode.dev/).
+[^3]: L'invite de commande de PowerShell est préférable en partie grâce à la saisie semi-automatique et a son historique de commandes qui persiste d'une session à une autre. 
