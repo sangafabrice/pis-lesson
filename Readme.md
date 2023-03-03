@@ -5,7 +5,7 @@
 - [x] Ouvrir l'un ou l'autre des navigateurs **Google Chrome** ![](./rsc/google-chrome-small.png) et **Microsoft Edge** ![](./rsc/microsoft-edge-small.png).
 - [x] Entrer dans la barre des URLs [**about:blank**](https://sangafabrice.github.io/redirect.html) et suivre le lien.
 - [x] Pour ouvrir le **DevTools**[^1], cliquer sur le menu **`⋮`** (Chrome) ou **`⋯`** (Edge) et parcourir les options dans cet ordre **More Tools** > **Developer Tools**.
-- [x] Ouvrir l'onglet **Console** et cliquer sur le **REPL** ou **Shell**.
+- [x] Ouvrir l'onglet **Console**.
 - [x] Entrer **`con`** et parcourir le menu déroulant qui s'ouvre et choisir **`console`**.
 - [x] Entrer l'opérateur **`.`** et **`l`** à la suite de **`console`** et l'invite de commande du Shell complétera automatiquement avec **`.log`**. Pour confirmer l'option, appuyer la touche **`→`** des boutons de direction.
 - [x] Ouvrir les parenthèses et entrer une **chaine de caractères** `'Hello World'` et fermer les parenthèses.
