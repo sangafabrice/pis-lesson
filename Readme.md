@@ -41,7 +41,7 @@ Le [Langage de Programmation](http://deptinfo.cnam.fr/Enseignement/CycleA/AMSI/c
 1️⃣ Suivre le lien vers la page de [téléchargement de Git pour Windows](https://git-scm.com/download/win).
 - [x] Identifier le type de système Windows (64-bit ou 32-bit) installé en ouvrant l'application **System Information** ![](./rsc/msinfo32-small.png) (msinfo32.exe) et lire la valeur de **System Type**.
 - [x] Choisir entre **l'installateur portable** qui permet d'exécuter Git depuis une clé USB ; et **l'installateur standalone** qui fait une installation complète.
-- [ ] En options, faire une **installation silencieuse** avec un outil de **gestion de paquets** comme **winget**, ou compiler le code source du projet git.
+- [ ] En options, faire une **installation silencieuse** avec un outil de **gestion de paquets** comme **winget**, ou **compiler** le code source du projet Git.
 ######
 2️⃣ Ajouter le chemin du dossier **Git\cmd** contenant **`git.exe`** à la variable **`PATH`**.
 - [x] Ouvrir **PowerShell** ou **Command Prompt** et entrer **`where.exe git`**.
