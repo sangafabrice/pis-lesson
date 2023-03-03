@@ -38,10 +38,18 @@ Le [Langage de Programmation](http://deptinfo.cnam.fr/Enseignement/CycleA/AMSI/c
 - [x] Un shell : Command Prompt ou PowerShell ![](./rsc/powershell-small.png).
 - [ ] Un Framework de test : Mocha ![](./rsc/mochajs-small.png).
 
-|💡 **Un exemple d'installation: La version portable de Git**|
-|:---|
-|→ Suivre le lien vers la page de [téléchargement de Git pour Windows](https://git-scm.com/download/win). <br> **•** Identifier le type de système Windows (64-bit ou 32-bit) installé en ouvrant l'application **System Information** ![](./rsc/msinfo32-small.png) (msinfo32.exe) et lire la valeur de **System Type**. <br> **•** Ensuite, il faudra choisir entre **l'installation portable** qui permet d'exécuter Git depuis une clé USB ; et **l'installateur standalone** qui fait une installation complète et avec des valeurs par défaut. <br> **•** Enfin, une option de faire une installation silencieuse avec un outil de gestion d'applications comme **winget**. <br> → Ajouter le chemin du dossier contenant l'outil `git.exe` (_Git\cmd_) à la variable environnementale PATH. <br> **•** Pour vérifier si c'est déjà ajouté, ouvrir PowerShell ou Command Prompt et entrer `where.exe git`. Si l'invite de commande retourne `INFO: Could not find files for the given pattern(s).`, alors ce n'est pas fait et il faudra continuer a l'etape suivante <br> **•** Pour ajouter le chemin, parcourir les options suivantes : **Settings** > **System** > **About** > **Advanced System Settings** > . <br> **•** Pour ajouter le chemin, parcourir ces options : **Settings** > **System** > **About** > **Advanced System Settings** > **Environment variable**. Ensuite sélectionner **`Path`** soit dans la section **User variables** ou dans la section **System variables** et appuyer sur bouton **`Edit…`**. Ensuite appuyer sur **`New`** et ajouter le chemin dans le champ et confirmer. Ensuite sélectionner Path dans soit dans la section **User variable** ou dans la section **System variable** et appuyer sur bouton **`Edit…`**. Ensuite appuyer sur **`New`**, ajouter le chemin vers git.exe et confirmer.|
-|💡 **Faire de même pour NodeJS et Visual Studio Code**|
+### 💡 **Un exemple d'installation: La version portable de Git**
+
+1️⃣ Suivre le lien vers la page de [téléchargement de Git pour Windows](https://git-scm.com/download/win).
+- [x] Identifier le type de système Windows (64-bit ou 32-bit) installé en ouvrant l'application **System Information** ![](./rsc/msinfo32-small.png) (msinfo32.exe) et lire la valeur de **System Type**.
+- [x] Choisir entre **l'installateur portable** qui permet d'exécuter Git depuis une clé USB ; et **l'installateur standalone** qui fait une installation complète.
+- [ ] En option, faire une **installation silencieuse** avec un outil de **gestion de paquets** comme **winget**.
+#####
+2️⃣ Ajouter le chemin du dossier **Git\cmd** contenant **`git.exe`** à la variable **`PATH`**.
+- [x] Ouvrir **PowerShell** ou **Command Prompt** et entrer **`where.exe git`**.
+- [x] Parcourir à partir du menu Démarrer **Settings** > **System** > **About** > **Advanced System Settings** > **Environment variable**. Ensuite sélectionner **`Path`** soit dans la section **User variables** ou dans la section **System variables** et appuyer sur bouton **`Edit…`**. Ensuite appuyer sur **`New`** et ajouter le chemin dans le champ et confirmer.
+
+### 💡 **Faire de même pour NodeJS et Visual Studio Code**
 <br>
 <br>
 
