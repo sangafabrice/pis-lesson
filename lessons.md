@@ -29,7 +29,7 @@ Le [Langage de Programmation](http://deptinfo.cnam.fr/Enseignement/CycleA/AMSI/c
 
 ## ✅ **Activité 2**
 
-|Organiser son Environnement de Développement _Intégré_ (Integrated Development Environment, IDE) en installant les outils TIC constamment utilisés par les Développeurs Javascript.|
+|Organiser son Environnement de Développement _Intégré_ (Integrated Development Environment, IDE) en identifiant les outils TIC constamment utilisés par les Développeurs Javascript. Installer ceux qui ne sont pas encore installés.|
 |:---|
 - [x] Un éditeur de code source : Visual Studio Code ![](./rsc/visual-studio-code-small.png).
 - [x] Un traducteur : NodeJS ![](./rsc/nodejs-small.png).
