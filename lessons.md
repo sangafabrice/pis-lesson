@@ -47,7 +47,9 @@ Le [Langage de Programmation](http://deptinfo.cnam.fr/Enseignement/CycleA/AMSI/c
 #####
 2️⃣ Ajouter le chemin du dossier **Git\cmd** contenant **`git.exe`** à la variable **`PATH`**.
 - [x] Ouvrir **PowerShell** ou **Command Prompt** et entrer **`where.exe git`**.
-- [x] Parcourir à partir du menu Démarrer **Settings** > **System** > **About** > **Advanced System Settings** > **Environment variable**. Ensuite sélectionner **`Path`** soit dans la section **User variables** ou dans la section **System variables** et appuyer sur bouton **`Edit…`**. Ensuite appuyer sur **`New`** et ajouter le chemin dans le champ et confirmer.
+- [x] Parcourir à partir du menu **Démarrer** ![](./rsc/windows-start-menu-small.png), **Settings** > **System** > **About** > **Advanced System Settings** > **Environment variable**.
+- [x] Sélectionner **`Path`** soit dans la section **User variables** ou dans la section **System variables** et appuyer sur **`Edit…`**.
+- [x] Appuyer sur **`New`** et ajouter le chemin dans le champ et confirmer.
 
 ### 💡 **Faire de même pour NodeJS et Visual Studio Code**
 <br>
