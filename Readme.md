@@ -62,4 +62,4 @@ Le [Langage de Programmation](http://deptinfo.cnam.fr/Enseignement/CycleA/AMSI/c
 
 [^1]: Un racourci clavier existe pour ouvrir le DevTools : **`Ctrl`+`Shift`+`I`**.
 [^2]: Une version en ligne est disponible : [vscode.dev](https://vscode.dev/).
-[^3]: L'invite de commande de PowerShell est préférable en partie grâce à la saisie semi-automatique et a son historique de commandes qui persiste d'une session à une autre. 
+[^3]: L'invite de commande de PowerShell est préférable en partie grâce à la saisie semi-automatique et à l’historique de commandes qui persiste d'une session à une autre.
