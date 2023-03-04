@@ -63,8 +63,7 @@ Le [Langage de Programmation](http://deptinfo.cnam.fr/Enseignement/CycleA/AMSI/c
 - [x] MochaJS nécessite la présence du gestionnaire de paquets de NodeJS (NPM, NodeJS Package Manager).
 - [x] Identifier les deux façons d'installer un module NodeJS : **globalement** ou **localement** relativement à un projet.<br>Dans le cadre de l'apprentissage, l'installation sera faite par projet.
 ```powershell
-npm install --global mocha
-
+npm install --save-dev mocha
 ```
 <br>
 <br>
