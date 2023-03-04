@@ -71,4 +71,4 @@ npm install --save-dev mocha
 [^1]: Un racourci clavier existe pour ouvrir le DevTools : **`Ctrl`+`Shift`+`I`**.
 [^2]: Une version en ligne est disponible : [vscode.dev](https://vscode.dev/).
 [^3]: L'invite de commande de PowerShell est préférable en partie grâce à la saisie semi-automatique et à l’historique de commandes qui persiste d'une session à une autre.
-[^4]: Le script d'installation de MochaJS par projet : [Install-MochaJS.ps1](https://raw.githubusercontent.com/sangafabrice/pis-lesson/main/rsc/Install-MochaJS.ps1)
+[^4]: Le script d'installation de MochaJS par projet : [Install-MochaJS.ps1](https://raw.githubusercontent.com/sangafabrice/pis-lesson/main/rsc/Install-MochaJS.ps1?token=GHSAT0AAAAAAB6FDGFQ6FKJPFJGPHPHEHWSZACTWKA)
