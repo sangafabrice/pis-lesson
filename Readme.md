@@ -61,7 +61,7 @@ Le [Langage de Programmation](http://deptinfo.cnam.fr/Enseignement/CycleA/AMSI/c
 ### 💡 **Suivre les étapes documentées sur le site de MochaJS**
 - [x] Suivre le lien vers la page de [**documentation** de MochaJS](https://mochajs.org/#installation).
 - [x] MochaJS nécessite la présence du gestionnaire de paquets de NodeJS (NPM, NodeJS Package Manager).
-- [x] Identifier les deux façons d'installer un module NodeJS : **globalement** ou **localement** relativement à un projet.<br>Dans le cadre de l'apprentissage, l'installation sera faite par projet.
+- [x] Identifier les deux façons d'installer un module NodeJS : **globalement** ou **localement** relativement à un projet.<br>Dans le cadre de l'apprentissage, l'installation sera faite par projet[^4].
 ```powershell
 npm install --save-dev mocha
 ```
@@ -71,3 +71,4 @@ npm install --save-dev mocha
 [^1]: Un racourci clavier existe pour ouvrir le DevTools : **`Ctrl`+`Shift`+`I`**.
 [^2]: Une version en ligne est disponible : [vscode.dev](https://vscode.dev/).
 [^3]: L'invite de commande de PowerShell est préférable en partie grâce à la saisie semi-automatique et à l’historique de commandes qui persiste d'une session à une autre.
+[^4]: Le script d'installation de MochaJS par projet : [Install-MochaJS.ps1](https://raw.githubusercontent.com/sangafabrice/pis-lesson/main/rsc/Install-MochaJS.ps1)
