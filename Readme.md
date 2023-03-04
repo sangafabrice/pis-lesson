@@ -34,7 +34,7 @@ Le [Langage de Programmation](http://deptinfo.cnam.fr/Enseignement/CycleA/AMSI/c
 |Organiser son Environnement de Développement _Intégré_ (Integrated Development Environment, IDE) en identifiant les outils TIC constamment utilisés par les Développeurs Javascript. Installer ceux qui ne sont pas encore installés.|
 |:---|
 ######
-|**Un éditeur de code source**|**Un traducteur**|**Un gestionnaire de version**|**Un navigateur web**|**Un terminal**|**Un Framework de test**[^4]|
+|**Un éditeur de code source**|**Un traducteur**|**Un gestionnaire de version**|**Un navigateur web**|**Un terminal**|**Un Framework de test**|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |Visual Studio Code[^2]<br>![](./rsc/visual-studio-code-small.png)|NodeJS<br>![](./rsc/nodejs-small.png)|Git<br>![](./rsc/git-small.png)|Google Chrome<br>![](./rsc/google-chrome-small.png)|Command Prompt ou PowerShell[^3]<br>![](./rsc/powershell-small.png)|MochaJS<br>![](./rsc/mochajs-small.png)|
 ######
@@ -59,7 +59,13 @@ Le [Langage de Programmation](http://deptinfo.cnam.fr/Enseignement/CycleA/AMSI/c
 - [ ] Constater qu'il est recommendé d'installer la version LTS (Long-Time Support) parce qu'elle est beaucoup plus stable.
 
 ### 💡 **Suivre les étapes documentées sur le site de MochaJS**
-- [x] Suivre le lien vers la page de [**documentation** de MochaJS](https://code.visualstudio.com/#alt-downloads).
+- [x] Suivre le lien vers la page de [**documentation** de MochaJS](https://mochajs.org/#installation).
+- [x] MochaJS nécessite la présence du gestionnaire de paquets de NodeJS (NPM, NodeJS Package Manager).
+- [x] Identifier les deux façons d'installer un module NodeJS : **globalement** ou **localement** relativement à un projet.<br>Dans le cadre de l'apprentissage, l'installation sera faite par projet.
+```powershell
+npm install --global mocha
+
+```
 <br>
 <br>
 
