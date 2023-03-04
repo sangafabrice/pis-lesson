@@ -66,7 +66,7 @@ Le [Langage de Programmation](http://deptinfo.cnam.fr/Enseignement/CycleA/AMSI/c
 npm install --save-dev mocha
 ```
 
-|Coder en **Javascript** un simple programme en utilisant l'environnement d'exécution NodeJS.|
+|Coder en **Javascript** un simple programme en utilisant le REPL fournit par l'environnement d'exécution NodeJS.|
 |:---|
 <br>
 <br>
