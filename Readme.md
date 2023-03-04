@@ -60,7 +60,7 @@ Le [Langage de Programmation](http://deptinfo.cnam.fr/Enseignement/CycleA/AMSI/c
 
 ### 💡 **Suivre les étapes documentées sur le site de MochaJS**
 - [x] Suivre le lien vers la page de [**documentation** de MochaJS](https://mochajs.org/#installation).
-- [x] MochaJS nécessite la présence du gestionnaire de paquets de NodeJS (NPM ![](./rsc/npm-small.png), NodeJS Package Manager).
+- [x] MochaJS nécessite la présence du **gestionnaire de paquets** de NodeJS **(NPM ![](./rsc/npm-small.png), NodeJS Package Manager)**.
 - [x] Identifier les deux façons d'installer un module NodeJS : **globalement** ou **localement** relativement à un projet.<br>Dans le cadre de l'apprentissage, l'installation sera faite par projet[^4].
 ```powershell
 npm install --save-dev mocha
