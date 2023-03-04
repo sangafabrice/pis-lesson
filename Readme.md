@@ -85,14 +85,15 @@ console.log('Hello World Again!')
 |Créer un script Javascript et l'exécuter en utilisant l'éditeur de code source Visual Studio Code et l'environnement d'exécution NodeJS.|
 |:---|
 - [x] Garder VS Code ouvert.
-- [x] Cliquer sur **Open Folder**[^6]. Creer un dossier dans la hierarchie du fichier system et le selectionner.
+- [x] Cliquer sur **Open Folder**[^6]. Créer un dossier dans la hiérarchie du fichier system et le sélectionner.
 - [x] Creer un nouveau fichier dans l'Explorateur de fichiers et le nommer **hello.js**.
 - [x] Entrer **`console.log('Hello World Again and Again!')`** en utilisant l'outil de saisie semi-automatique.
-- [x] Sauvegarder le script Javascript ainsi cree en appuyant **`Ctrl`+`S`**.
-```js
-console.log('Hello World Again!')
-.exit
-```
+- [x] Sauvegarder le script Javascript ainsi créé en appuyant **`Ctrl`+`S`**.
+- [x] Ouvrir le Terminal.
+- [x] Entrer **`node.exe .\hello.js`** avec la saisie semi-automatique. Appuyer **`↵`**.
+- [x] Entrer **`node hello.js`** sans la saisie semi-automatique. Appuyer **`↵`**.
+- [x] Entrer les chemins absolus de node.exe hello.js sans la saisie semi-automatique. Appuyer **`↵`**.
+- [x] Pour exécuter automatiquement le programme source, parcourir le menu dans cet ordre **Run** > **Run Without Debugging**[^7].
 <br>
 <br>
 
@@ -102,3 +103,4 @@ console.log('Hello World Again!')
 [^4]: Le script d'installation de MochaJS par projet : [Install-MochaJS.ps1](https://raw.githubusercontent.com/sangafabrice/pis-lesson/main/rsc/Install-MochaJS.ps1?token=GHSAT0AAAAAAB6FDGFQ6FKJPFJGPHPHEHWSZACTWKA)
 [^5]: Un racourci clavier existe pour ouvrir le Terminal : **`Ctrl`+``` ` ```**.
 [^6]: Un racourci clavier existe pour ouvrir un dossier : **`Ctrl`+`O`**.
+[^7]: Un racourci clavier existe pour exécuter le programme source : **`Ctrl`+`F5`**.
