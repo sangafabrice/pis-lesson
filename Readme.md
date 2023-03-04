@@ -5,7 +5,7 @@
 - [x] Ouvrir l'un ou l'autre des navigateurs **Google Chrome** ![](./rsc/google-chrome-small.png) et **Microsoft Edge** ![](./rsc/microsoft-edge-small.png).
 - [x] Entrer dans la barre des URLs [**about:blank**](https://sangafabrice.github.io/redirect.html) et suivre le lien.
 - [x] Cliquer sur le menu **`⋮`** (Chrome) ou **`⋯`** (Edge).
-- [x] Pour ouvrir le **DevTools**[^1], parcourir les options dans cet ordre **More Tools** > **Developer Tools**.
+- [x] Pour ouvrir le **DevTools**[^1] ![](./rsc/google-chrome-devtools-small.png), parcourir les options dans cet ordre **More Tools** > **Developer Tools**.
 - [x] Ouvrir l'onglet **Console**.
 - [x] Entrer **`con`** et parcourir le menu déroulant qui s'ouvre et choisir **`console`**.
 - [x] Entrer l'opérateur **`.`** et **`l`** à la suite de **`console`** et **l'invite de commande** complétera automatiquement avec **`.log`**.
@@ -70,6 +70,19 @@ npm install --save-dev mocha
 
 |Coder en **Javascript** le simple programme de l'<u>Activité 1</u> en utilisant le REPL fournit par l'environnement d'exécution NodeJS.|
 |:---|
+- [x] Ouvrir l'éditeur de code source **Visual Studio Code** ![](./rsc/visual-studio-code-small.png).
+- [x] Entrer dans la barre des URLs [**about:blank**](https://sangafabrice.github.io/redirect.html) et suivre le lien.
+- [x] Cliquer sur le menu **`⋮`** (Chrome) ou **`⋯`** (Edge).
+- [x] Pour ouvrir le **DevTools**[^1] ![](./rsc/google-chrome-devtools-small.png), parcourir les options dans cet ordre **More Tools** > **Developer Tools**.
+- [x] Ouvrir l'onglet **Console**.
+- [x] Entrer **`con`** et parcourir le menu déroulant qui s'ouvre et choisir **`console`**.
+- [x] Entrer l'opérateur **`.`** et **`l`** à la suite de **`console`** et **l'invite de commande** complétera automatiquement avec **`.log`**.
+- [x] Pour confirmer l'option, appuyer la touche **`→`** des boutons de direction.
+- [x] Ouvrir les parenthèses et entrer une **chaine de caractères** `'Hello World'` et fermer les parenthèses.
+- [x] Appuyer **`↵`**.
+```js
+console.log('Hello World')
+```
 <br>
 <br>
 
