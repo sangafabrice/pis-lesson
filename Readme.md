@@ -34,9 +34,9 @@ Le [Langage de Programmation](http://deptinfo.cnam.fr/Enseignement/CycleA/AMSI/c
 |Organiser son Environnement de Développement _Intégré_ (Integrated Development Environment, IDE) en identifiant les outils TIC constamment utilisés par les Développeurs Javascript. Installer ceux qui ne sont pas encore installés.|
 |:---|
 ######
-|**Un éditeur de code source**|**Un traducteur**|**Un gestionnaire de version**|**Un navigateur web**|**Un terminal**|**Un Framework de test**|
+|**Un éditeur de code source**|**Un traducteur**|**Un gestionnaire de version**|**Un navigateur web**|**Un terminal**|**Un Framework de test**[^4]|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|Visual Studio Code[^2]<br>![](./rsc/visual-studio-code-small.png)|NodeJS<br>![](./rsc/nodejs-small.png)|Git<br>![](./rsc/git-small.png)|Google Chrome<br>![](./rsc/google-chrome-small.png)|Command Prompt ou PowerShell[^3]<br>![](./rsc/powershell-small.png)|Mocha<br>![](./rsc/mochajs-small.png)|
+|Visual Studio Code[^2]<br>![](./rsc/visual-studio-code-small.png)|NodeJS<br>![](./rsc/nodejs-small.png)|Git<br>![](./rsc/git-small.png)|Google Chrome<br>![](./rsc/google-chrome-small.png)|Command Prompt ou PowerShell[^3]<br>![](./rsc/powershell-small.png)|MochaJS<br>![](./rsc/mochajs-small.png)|
 ######
 ### 💡 **Un exemple d'installation: La version portable de Git**
 
@@ -57,6 +57,9 @@ Le [Langage de Programmation](http://deptinfo.cnam.fr/Enseignement/CycleA/AMSI/c
 - [ ] Identifier les deux versions d'installateur portable : une **installation compressée** et une **application console** (Command-Line Interface, CLI).
 - [x] Suivre le lien vers la page de [téléchargement de NodeJS](https://nodejs.org/en/download/).
 - [ ] Constater qu'il est recommendé d'installer la version LTS (Long-Time Support) parce qu'elle est beaucoup plus stable.
+
+### 💡 **Suivre les étapes documentées sur le site de MochaJS**
+- [x] Suivre le lien vers la page de [**documentation** de MochaJS](https://code.visualstudio.com/#alt-downloads).
 <br>
 <br>
 
