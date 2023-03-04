@@ -1,6 +1,6 @@
 ## ✅ **Activité 1**
 
-|Coder en **Javascript** un simple programme en utilisant la boucle de lecture-évaluation-impression (Read-Eval-Print Loop, REPL) fournit par un navigateur web.|
+|Coder en Javascript un simple programme en utilisant la boucle de lecture-évaluation-impression (Read-Eval-Print Loop, REPL) fournit par un navigateur web.|
 |:---|
 - [x] Ouvrir l'un ou l'autre des navigateurs **Google Chrome** ![](./rsc/google-chrome-small.png) et **Microsoft Edge** ![](./rsc/microsoft-edge-small.png).
 - [x] Entrer dans la barre des URLs [**about:blank**](https://sangafabrice.github.io/redirect.html) et suivre le lien.
@@ -68,10 +68,24 @@ npm install --save-dev mocha
 <br>
 <br>
 
-|Coder en **Javascript** le simple programme de l'<u>Activité 1</u> en utilisant le REPL fournit par l'environnement d'exécution NodeJS.|
+|Coder en Javascript le simple programme de l'Activité 1 en utilisant le REPL fournit par l'environnement d'exécution NodeJS.|
 |:---|
 - [x] Ouvrir l'éditeur de code source **Visual Studio Code** ![](./rsc/visual-studio-code-small.png).
 - [x] Pour ouvrir le **terminal integré**[^5], parcourir le menu dans cet ordre **Terminal** > **New Terminal**.
+- [x] Pour accéder au REPL de NodeJS, entrer **`nod`** et appuyer **`Tab`** plusieurs fois jusqu'à obtenir **`node.exe`**. Appuyer **`↵`**.
+- [x] Entrer **`cons`** et appuyer deux fois sur **`Tab`**.
+- [x] Entrer **`conso`** et **l'invite de commande** complétera automatiquement avec **`console`**. Appuyer **`→`**.
+- [x] Entrer l'opérateur **`.`** et **`l`** à la suite de **`console`** et **l'invite de commande** complétera automatiquement avec **`.log`**. Appuyer **`→`**.
+- [x] Ouvrir les parenthèses et entrer une **chaine de caractères** `'Hello World Again!'` et fermer les parenthèses. Appuyer **`↵`**.
+- [x] Pour sortir du REPL de NodeJS, entrer **`.ex`** et **l'invite de commande** complétera automatiquement avec **`.exit`**. Appuyer **`→`** et **`↵`**.
+```js
+console.log('Hello World Again!')
+.exit
+```
+|Créer un script Javascript et l'exécuter en utilisant l'éditeur de code source Visual Studio Code et l'environnement d'exécution NodeJS.|
+|:---|
+- [x] Garder VS Code ouvert.
+- [x] Pour creer un script le **terminal integré**[^5], parcourir le menu dans cet ordre **Terminal** > **New Terminal**.
 - [x] Pour accéder au REPL de NodeJS, entrer **`nod`** et appuyer **`Tab`** plusieurs fois jusqu'à obtenir **`node.exe`**. Appuyer **`↵`**.
 - [x] Entrer **`conso`** et **l'invite de commande** complétera automatiquement avec **`console`**. Appuyer **`→`**.
 - [x] Entrer l'opérateur **`.`** et **`l`** à la suite de **`console`** et **l'invite de commande** complétera automatiquement avec **`.log`**. Appuyer **`→`**.
