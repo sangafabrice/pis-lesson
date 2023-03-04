@@ -67,6 +67,7 @@ npm install --save-dev mocha
 ```
 <br>
 <br>
+
 |Coder en **Javascript** le simple programme de l'<u>Activité 1</u> en utilisant le REPL fournit par l'environnement d'exécution NodeJS.|
 |:---|
 <br>
