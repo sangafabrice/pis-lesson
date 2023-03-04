@@ -71,9 +71,8 @@ npm install --save-dev mocha
 |Coder en **Javascript** le simple programme de l'<u>Activité 1</u> en utilisant le REPL fournit par l'environnement d'exécution NodeJS.|
 |:---|
 - [x] Ouvrir l'éditeur de code source **Visual Studio Code** ![](./rsc/visual-studio-code-small.png).
-- [x] Entrer dans la barre des URLs [**about:blank**](https://sangafabrice.github.io/redirect.html) et suivre le lien.
 - [x] Cliquer sur le menu **`⋮`** (Chrome) ou **`⋯`** (Edge).
-- [x] Pour ouvrir le **DevTools**[^1] ![](./rsc/google-chrome-devtools-small.png), parcourir les options dans cet ordre **More Tools** > **Developer Tools**.
+- [x] Pour ouvrir le **terminal integré**[^5], parcourir le menu dans cet ordre **Terminal** > **New Terminal**.
 - [x] Ouvrir l'onglet **Console**.
 - [x] Entrer **`con`** et parcourir le menu déroulant qui s'ouvre et choisir **`console`**.
 - [x] Entrer l'opérateur **`.`** et **`l`** à la suite de **`console`** et **l'invite de commande** complétera automatiquement avec **`.log`**.
@@ -90,3 +89,4 @@ console.log('Hello World')
 [^2]: Une version en ligne est disponible : [vscode.dev](https://vscode.dev/).
 [^3]: L'invite de commande de PowerShell est préférable en partie grâce à la saisie semi-automatique et à l’historique de commandes qui persiste d'une session à une autre.
 [^4]: Le script d'installation de MochaJS par projet : [Install-MochaJS.ps1](https://raw.githubusercontent.com/sangafabrice/pis-lesson/main/rsc/Install-MochaJS.ps1?token=GHSAT0AAAAAAB6FDGFQ6FKJPFJGPHPHEHWSZACTWKA)
+[^5]: Un racourci clavier existe pour ouvrir le Terminal : **`Ctrl`+` ```` `**.
