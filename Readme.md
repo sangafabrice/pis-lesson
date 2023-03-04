@@ -65,8 +65,9 @@ Le [Langage de Programmation](http://deptinfo.cnam.fr/Enseignement/CycleA/AMSI/c
 ```powershell
 npm install --save-dev mocha
 ```
-
-|Coder en **Javascript** un simple programme en utilisant le REPL fournit par l'environnement d'exécution NodeJS.|
+<br>
+<br>
+|Coder en **Javascript** le simple programme de l'<u>Activité 1</u> en utilisant le REPL fournit par l'environnement d'exécution NodeJS.|
 |:---|
 <br>
 <br>
