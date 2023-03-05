@@ -7,5 +7,9 @@ Les types de données en JavaScript peuvent être divisés en deux catégories :
 |Types primitifs|Types objets|
 |:---|:---|
 |Les nombres| |
+|Les grands nombres| |
 |Les chaînes de texte| |
 |Les valeurs de vérité booléennes| |
+|Les symboles| |
+|La valeur nulle| |
+|La valeur indéfinie| |
