@@ -98,30 +98,25 @@ console.log('Hello World Again!')
 
 ### 📚 Théorie
 
-JavaScript est un langage de programmation **interprété** parce que le Moteur Javascript (**l'interpréteur**) exécute le programme source de haut en bas et imprime le résultat immédiatement. Alors qu'un **compilateur** transforme le programme source en un programme objet executable de facon autonome.
+JavaScript est un langage de programmation **interprété** parce que le Moteur Javascript (**l'interpréteur**) exécute le programme source de haut en bas et imprime le résultat immédiatement. Alors qu'un **compilateur** transforme le programme source en un programme objet exécutable de facon autonome. Un avantage des langages de programmation **interprétés** est qu'elles permettent de faire de la programmation interactive. C'est le cas de la console de DevTools ou le REPL de NodeJS. Un inconvénient est que l'exécution du programme compilé est plus rapide que l'exécution d'un programme source (non exploitable par la machine).
 
 Un example de code compilé : C# ![](./rsc/c-sharp-small.png)
 ```powershell
-$SourceCode = @'
+@'
 using System;  
-public class HelloWord  
+public class HelloWorld
 {  
 	public static void Main(string[] args)  
 	{  
-		char letterA = 'A'; char letterB = 'B';
-		char temp = letterA;
-		letterA = letterB;
-		letterB = temp;
-		Console.WriteLine(letterA + letterB);   
+		Console.WriteLine("Hello World!");   
 	}  
 } 
-'@
-Add-Type -TypeDefinition $source -OutputType ConsoleApplication -OutputAssembly consoleapp.exe
+'@ > SourceCode.cs
+.\Start-Compile.ps1 .\sourcecode\sourcecode.cs .\ObjectCode.exe
+.\ObjectCode.exe
 ```
 
-Le [Langage de Programmation](http://deptinfo.cnam.fr/Enseignement/CycleA/AMSI/cours_systemes/04_traduction/traduc.htm) permet d'écrire un **code source** qui est analysé par un **traducteur** et transformé par ce dernier dans une forme exploitable par la machine cible.
 
-**Javascript** ![](./rsc/javascript-small.png) est un langage de programmation de **haut niveau** parce qu'il est plus proche du langage naturel que du langage machine. Le traducteur qui évalue le programme source en Javascript est le **moteur Javascript**. Le plus populaire est **V8** ![](./rsc/v8-small.png) qui est intégré dans les navigateurs basés sur Chromium ![](./rsc/chromium-small.png).
 <br>
 <br>
 
