@@ -103,7 +103,9 @@ console.log('Hello World Again!')
 
 ### 📚 Théorie
 
-JavaScript est un langage de programmation **interprété** parce que le Moteur Javascript (**l'interpréteur**) exécute le programme source de haut en bas et imprime le résultat immédiatement. Alors qu'un **compilateur** transforme le programme source en un programme objet exécutable de façon autonome. Un avantage des langages de programmation **interprétés** est qu'elles permettent de faire de la programmation interactive. C'est le cas de la console de DevTools ou le REPL de NodeJS. Un inconvénient est que l'exécution du programme compilé est plus rapide que l'exécution d'un programme source (non exploitable par la machine).
+JavaScript est un langage de programmation **interprété** parce que le Moteur Javascript (**l'interpréteur**) exécute le programme source de haut en bas et imprime le résultat immédiatement. Alors qu'un **compilateur** transforme le programme source en un programme objet exécutable de façon autonome.
+
+Un avantage des langages de programmation **interprétés** est qu'elles permettent de faire de la programmation interactive. C'est le cas de la console de DevTools ou le REPL de NodeJS. Un inconvénient est que l'exécution du programme compilé est plus rapide que l'exécution d'un programme source (non exploitable par la machine).
 
 Un example de code compilé : C# ![](./rsc/c-sharp-small.png)
 ```powershell
@@ -120,7 +122,8 @@ public class HelloWorld
 .\Start-Compile.ps1 .\sourcecode\sourcecode.cs .\ObjectCode.exe
 .\ObjectCode.exe
 ```
-Visual Studio Code est un Environnement de Développement parce qu'il intègre à la fois, un éditeur de texte, un bouton pour interpréter les scripts JavaScript, et un débogueur.
+######
+Visual Studio Code est un Environnement de Développement parce qu'il intègre à la fois, un éditeur de texte, un environnement d'exécution des scripts Javascript, et un débogueur.
 
 <br>
 <br>
