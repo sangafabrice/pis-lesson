@@ -98,6 +98,27 @@ console.log('Hello World Again!')
 
 ### 📚 Théorie
 
+JavaScript est un langage de programmation **interprété** parce que le Moteur Javascript (**l'interpréteur**) exécute le programme source de haut en bas et imprime le résultat immédiatement. Alors qu'un **compilateur** transforme le programme source en un programme objet executable de facon autonome.
+
+Un example de code compilé : C# ![](./rsc/c-sharp-small.png)
+```powershell
+$SourceCode = @'
+using System;  
+public class HelloWord  
+{  
+	public static void Main(string[] args)  
+	{  
+		char letterA = 'A'; char letterB = 'B';
+		char temp = letterA;
+		letterA = letterB;
+		letterB = temp;
+		Console.WriteLine(letterA + letterB);   
+	}  
+} 
+'@
+Add-Type -TypeDefinition $source -OutputType ConsoleApplication -OutputAssembly consoleapp.exe
+```
+
 Le [Langage de Programmation](http://deptinfo.cnam.fr/Enseignement/CycleA/AMSI/cours_systemes/04_traduction/traduc.htm) permet d'écrire un **code source** qui est analysé par un **traducteur** et transformé par ce dernier dans une forme exploitable par la machine cible.
 
 **Javascript** ![](./rsc/javascript-small.png) est un langage de programmation de **haut niveau** parce qu'il est plus proche du langage naturel que du langage machine. Le traducteur qui évalue le programme source en Javascript est le **moteur Javascript**. Le plus populaire est **V8** ![](./rsc/v8-small.png) qui est intégré dans les navigateurs basés sur Chromium ![](./rsc/chromium-small.png).
