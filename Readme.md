@@ -62,9 +62,6 @@ Le [Langage de Programmation](http://deptinfo.cnam.fr/Enseignement/CycleA/AMSI/c
 - [x] Ouvrir l'éditeur de code source **Visual Studio Code**.
 - [x] Cliquer sur le bouton **Extension** de la barre latérale.
 - [x] Entrer dans le champ de recherche **`@builtin js-debug`**.
-```powershell
-npm install --save-dev mocha
-```
 
 ### 💡 **Suivre les étapes documentées sur le site de MochaJS**
 - [x] Suivre le lien vers la page de [**documentation** de MochaJS](https://mochajs.org/#installation).
