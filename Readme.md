@@ -120,7 +120,7 @@ public class HelloWorld
 .\Start-Compile.ps1 .\sourcecode\sourcecode.cs .\ObjectCode.exe
 .\ObjectCode.exe
 ```
-
+Visual Studio Code est un Environnement de Développement parce qu'il intègre à la fois, un éditeur de texte, un bouton pour interprété les scripts JavaScript, et un débogueur.
 
 <br>
 <br>
