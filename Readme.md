@@ -36,7 +36,7 @@ Le [Langage de Programmation](http://deptinfo.cnam.fr/Enseignement/CycleA/AMSI/c
 ######
 |Un éditeur de code source|Un traducteur|Un gestionnaire de version|Un navigateur web|Un terminal|Un Framework de test|Un débogueur|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Visual Studio Code[^2]<br>![](./rsc/visual-studio-code-small.png)|NodeJS<br>![](./rsc/nodejs-small.png)|Git<br>![](./rsc/git-small.png)|Google Chrome<br>![](./rsc/google-chrome-small.png)|Command Prompt ou PowerShell[^3]<br>![](./rsc/powershell-small.png)|MochaJS<br>![](./rsc/mochajs-small.png)|
+|Visual Studio Code[^2]<br>![](./rsc/visual-studio-code-small.png)|NodeJS<br>![](./rsc/nodejs-small.png)|Git<br>![](./rsc/git-small.png)|Google Chrome<br>![](./rsc/google-chrome-small.png)|Command Prompt ou PowerShell[^3]<br>![](./rsc/powershell-small.png)|MochaJS<br>![](./rsc/mochajs-small.png)|code-javascript-debug<br>![](./rsc/vscode-js-debug-small.png)|
 ######
 ### 💡 **Un exemple d'installation: La version portable de Git**
 
@@ -94,10 +94,6 @@ console.log('Hello World Again!')
 - [x] Entrer **`node hello.js`** sans la saisie semi-automatique. Appuyer **`↵`**.
 - [x] Entrer les chemins absolus de node.exe hello.js sans la saisie semi-automatique. Appuyer **`↵`**.
 - [x] Pour exécuter automatiquement le programme source, parcourir le menu dans cet ordre **Run** > **Run Without Debugging**[^7].
-
-|Créer un script Javascript et l'exécuter en utilisant l'éditeur de code source Visual Studio Code et l'environnement d'exécution NodeJS.|
-|:---|
-- [x] d
 <br>
 
 ### 📚 Théorie
