@@ -36,7 +36,7 @@ Le [Langage de Programmation](http://deptinfo.cnam.fr/Enseignement/CycleA/AMSI/c
 ######
 |Un éditeur de code source|Un traducteur|Un gestionnaire de version|Un navigateur web|Un terminal|Un Framework de test|Un débogueur|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Visual Studio Code[^2]<br>![](./rsc/visual-studio-code-small.png)|NodeJS<br>![](./rsc/nodejs-small.png)|Git<br>![](./rsc/git-small.png)|Google Chrome<br>![](./rsc/google-chrome-small.png)|Command Prompt ou PowerShell[^3]<br>![](./rsc/powershell-small.png)|MochaJS<br>![](./rsc/mochajs-small.png)|code-javascript-debug<br>![](./rsc/vscode-js-debug-small.png)|
+|Visual Studio Code[^2]<br>![](./rsc/visual-studio-code-small.png)|NodeJS<br>![](./rsc/nodejs-small.png)|Git<br>![](./rsc/git-small.png)|Google Chrome<br>![](./rsc/google-chrome-small.png)|Command Prompt ou PowerShell[^3]<br>![](./rsc/powershell-small.png)|MochaJS<br>![](./rsc/mochajs-small.png)|vscode-js-debug<br>![](./rsc/vscode-js-debug-small.png)|
 ######
 ### 💡 **Un exemple d'installation: La version portable de Git**
 
@@ -57,6 +57,14 @@ Le [Langage de Programmation](http://deptinfo.cnam.fr/Enseignement/CycleA/AMSI/c
 - [ ] Identifier les deux versions d'installateur portable : une **installation compressée** et une **application console** (Command-Line Interface, CLI).
 - [x] Suivre le lien vers la page de [téléchargement de NodeJS](https://nodejs.org/en/download/).
 - [ ] Constater qu'il est recommendé d'installer la version LTS (Long-Time Support) parce qu'elle est beaucoup plus stable.
+
+### 💡 **Verifier la présence de l'extension VS Code vscode-js-debug**
+- [x] Ouvrir l'éditeur de code source **Visual Studio Code**.
+- [x] Cliquer sur le bouton **Extension** de la barre latérale.
+- [x] Entrer dans le champ de recherche **`@builtin js-debug`**.
+```powershell
+npm install --save-dev mocha
+```
 
 ### 💡 **Suivre les étapes documentées sur le site de MochaJS**
 - [x] Suivre le lien vers la page de [**documentation** de MochaJS](https://mochajs.org/#installation).
@@ -86,7 +94,7 @@ console.log('Hello World Again!')
 |:---|
 - [x] Garder VS Code ouvert.
 - [x] Cliquer sur **Open Folder**[^6]. Créer un dossier dans la hiérarchie du fichier system et le sélectionner.
-- [x] Creer un nouveau fichier dans l'Explorateur de fichiers et le nommer **hello.js**.
+- [x] Creer un nouveau fichier dans l'Explorateur de fichiers de la barre latérale et le nommer **hello.js**.
 - [x] Entrer **`console.log('Hello World Again and Again!')`** en utilisant l'outil de saisie semi-automatique.
 - [x] Sauvegarder le script Javascript ainsi créé en appuyant **`Ctrl`+`S`**.
 - [x] Ouvrir le Terminal.
