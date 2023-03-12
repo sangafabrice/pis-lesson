@@ -4,7 +4,7 @@
 
 #### 🔢 Les nombres : `'number'` and `'bigint'`
 
-Ces nombres sont tous de type **`number`** en Javascript.
+Les valeurs littérales suivantes sont toutes de type **`number`** en Javascript.
 ```javascript
 254 // Nombre entier décimal
 0xFE // Nombre entier hexadécimal (FE)₁₆ et égal à 254
@@ -42,7 +42,7 @@ Le **tiret de 8** peut-être utilisé pour améliorer la lisibilité des nombres
 
 ######
 Les nombres entiers de type **`bigint`** ont la lettre **`n`** minuscule à la fin. Ce type de donnée peut représenter des nombres au-delà des limites du type **`number`**.<br>
-Ces nombres sont tous de type **`bigint`** en Javascript.
+Les valeurs littérales suivantes sont des nombres de type **`bigint`** en Javascript.
 ```javascript
 9007199254740993n
 9_007_199_254_740_993n
@@ -87,14 +87,26 @@ Le type de donnée **`symbol`** n'ont pas de formes syntaxiques particulières. 
 
 #### 🔡 Les objets : `object`
 
-Les types de données en JavaScript peuvent être divisés en deux catégories : les types **primitifs** et les types **objets**. Les types primitifs de JavaScript incluent des nombres, des chaînes de texte et les valeurs de vérité booléennes.
+Le type de données **`object`** contient l'ensemble :
+- des objets **`Object`** dont les valeurs littérales sont des couples de nom:valeur séparés par des virgules et entourés par des accolades **`{}`** ;
+- des tableaux **`Array`** dont les valeurs littérales sont des items séparés par des virgules et entourés par des crochets **`[]`** ;
+- **etc**.
 
-|Types primitifs|Types objets|
-|:---|:---|
-|Les nombres| |
-|Les grands nombres| |
-|Les chaînes de texte| |
-|Les valeurs de vérité booléennes| |
-|Les symboles| |
-|La valeur nulle| |
-|La valeur indéfinie| |
+```javascript
+{ nom: 'Omar', age: 16, hobby: 'football'} // Valeur littérale représentant un objet de type Object
+[1, 2, 'a', 3, true] // // Valeur littérale représentant un objet de type Array
+```
+
+## Resumé
+
+Les types de données en JavaScript peuvent être divisés en deux catégories : les types **primitifs** et les types **objets**. Les types primitifs de JavaScript incluent des nombres, des chaînes de texte et les valeurs de vérité booléennes, la valeur nulle et la valeur indéfinie. Elles sont primitives parce qu'elles ne changent pas, contrairement aux objets.
+
+|Types primitifs|
+|:---|
+|`number`|
+|`bigint`|
+|`string`|
+|`boolean`|
+|`symbol`|
+|`null`|
+|`undefined`|
