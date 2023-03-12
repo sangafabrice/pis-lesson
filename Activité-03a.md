@@ -79,3 +79,11 @@ typeof false
 typeof undefined
 typeof variableindefinie
 ```
+- [x] L'égalité suivante est fausse :
+```javascript
+Symbol('propertyname') == Symbol('propertyname')
+```
+- [x] L'instruction suivante retourne toutes **`'symbol'`**
+```javascript
+typeof Symbol('propertyname')
+```
