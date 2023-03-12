@@ -5,7 +5,7 @@
 ######
 |Un éditeur de code source|Un traducteur|Un gestionnaire de version|Un navigateur web|Un terminal|Un Framework de test|Un débogueur|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Visual Studio Code[^2]<br>![](./rsc/visual-studio-code-small.png)|NodeJS<br>![](./rsc/nodejs-small.png)|Git<br>![](./rsc/git-small.png)|Google Chrome<br>![](./rsc/google-chrome-small.png)|Command Prompt ou PowerShell[^3]<br>![](./rsc/powershell-small.png)|MochaJS<br>![](./rsc/mochajs-small.png)|vscode-js-debug<br>![](./rsc/vscode-js-debug-small.png)|
+|Visual Studio Code[^1]<br>![](./rsc/visual-studio-code-small.png)|NodeJS<br>![](./rsc/nodejs-small.png)|Git<br>![](./rsc/git-small.png)|Google Chrome<br>![](./rsc/google-chrome-small.png)|Command Prompt ou PowerShell[^2]<br>![](./rsc/powershell-small.png)|MochaJS<br>![](./rsc/mochajs-small.png)|vscode-js-debug<br>![](./rsc/vscode-js-debug-small.png)|
 ######
 ### 💡 **Un exemple d'installation: La version portable de Git**
 
@@ -35,7 +35,7 @@
 ### 💡 **Suivre les étapes documentées sur le site de MochaJS**
 - [x] Suivre le lien vers la page de [**documentation** de MochaJS](https://mochajs.org/#installation).
 - [x] MochaJS nécessite la présence du **gestionnaire de paquets** de NodeJS **(NPM ![](./rsc/npm-small.png), NodeJS Package Manager)**.
-- [x] Identifier les deux façons d'installer un module NodeJS : **globalement** ou **localement** relativement à un projet.<br>Dans le cadre de l'apprentissage, l'installation sera faite par projet[^4].
+- [x] Identifier les deux façons d'installer un module NodeJS : **globalement** ou **localement** relativement à un projet.<br>Dans le cadre de l'apprentissage, l'installation sera faite par projet[^3].
 ```powershell
 npm install --save-dev mocha
 ```
@@ -45,7 +45,7 @@ npm install --save-dev mocha
 |Coder en Javascript le simple programme de l'Activité 1 en utilisant le REPL fournit par l'environnement d'exécution NodeJS.|
 |:---|
 - [x] Ouvrir l'éditeur de code source **Visual Studio Code** ![](./rsc/visual-studio-code-small.png).
-- [x] Pour ouvrir le **terminal integré**[^5], parcourir le menu dans cet ordre **Terminal** > **New Terminal**.
+- [x] Pour ouvrir le **terminal integré**[^4], parcourir le menu dans cet ordre **Terminal** > **New Terminal**.
 - [x] Pour accéder au REPL de NodeJS, entrer **`nod`** et appuyer **`Tab`** plusieurs fois jusqu'à obtenir **`node.exe`**. Appuyer **`↵`**.
 - [x] Entrer **`cons`** et appuyer deux fois sur **`Tab`**.
 - [x] Entrer **`conso`** et **l'invite de commande** complétera automatiquement avec **`console`**. Appuyer **`→`**.
@@ -59,7 +59,7 @@ console.log('Hello World Again!')
 |Créer un script Javascript et l'exécuter en utilisant l'éditeur de code source Visual Studio Code et l'environnement d'exécution NodeJS.|
 |:---|
 - [x] Garder VS Code ouvert.
-- [x] Cliquer sur **Open Folder**[^6]. Créer un dossier dans la hiérarchie du fichier system et le sélectionner.
+- [x] Cliquer sur **Open Folder**[^5]. Créer un dossier dans la hiérarchie du fichier system et le sélectionner.
 - [x] Creer un nouveau fichier dans l'Explorateur de fichiers de la barre latérale et le nommer **hello.js**.
 - [x] Entrer **`console.log('Hello World Again and Again!')`** en utilisant l'outil de saisie semi-automatique.
 - [x] Sauvegarder le script Javascript ainsi créé en appuyant **`Ctrl`+`S`**.
@@ -67,7 +67,7 @@ console.log('Hello World Again!')
 - [x] Entrer **`node.exe .\hello.js`** avec la saisie semi-automatique. Appuyer **`↵`**.
 - [x] Entrer **`node hello.js`** sans la saisie semi-automatique. Appuyer **`↵`**.
 - [x] Entrer les chemins absolus de node.exe hello.js sans la saisie semi-automatique. Appuyer **`↵`**.
-- [x] Pour exécuter automatiquement le programme source, parcourir le menu dans cet ordre **Run** > **Run Without Debugging**[^7].
+- [x] Pour exécuter automatiquement le programme source, parcourir le menu dans cet ordre **Run** > **Run Without Debugging**[^6].
 <br>
 
 ## 📚 Théorie
@@ -93,6 +93,12 @@ public class HelloWorld
 ```
 ######
 Visual Studio Code est un Environnement de Développement parce qu'il intègre à la fois, un éditeur de texte, un environnement d'exécution des scripts Javascript, et un débogueur.
-
----
 <br>
+<br>
+
+[^1]: Une version en ligne est disponible : [vscode.dev](https://vscode.dev/).
+[^2]: L'invite de commande de PowerShell est préférable en partie grâce à la saisie semi-automatique et à l’historique de commandes qui persiste d'une session à une autre.
+[^3]: Le script d'installation de MochaJS par projet : [Install-MochaJS.ps1](https://raw.githubusercontent.com/sangafabrice/pis-lesson/main/rsc/Install-MochaJS.ps1).
+[^4]: Un racourci clavier existe pour ouvrir le Terminal : **`Ctrl`+``` ` ```**.
+[^5]: Un racourci clavier existe pour ouvrir un dossier : **`Ctrl`+`O`**.
+[^6]: Un racourci clavier existe pour exécuter le programme source : **`Ctrl`+`F5`**.
