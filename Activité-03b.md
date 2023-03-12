@@ -82,7 +82,7 @@ Les valeurs spéciales `null` et `undefined` seront revisitées plus tard.
 
 #### 🔡 Les symboles : `symbol`
 
-Le type de donnée **`symbol`** n'ont pas de formes syntaxiques particulières. Pour obtenir la valeur d'un symbole, il faut utiliser la fonction **`Symbol()`**. Cette fonction ne renvoie jamais deux fois la même valeur, même si elle est exécutée avec le même argument. Les symboles seront revisités plus tard.
+Le type de donnée **`symbol`** n'ont pas de formes syntaxiques particulières. Pour obtenir la valeur d'un symbole, il faut utiliser la fonction **`Symbol()`**. Cette fonction ne retourne jamais deux fois la même valeur, même si elle est exécutée avec le même argument. Les symboles seront revisités plus tard.
 ######
 
 #### 🔡 Les objets : `object`
