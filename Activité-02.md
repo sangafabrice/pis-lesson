@@ -1,4 +1,4 @@
-## ✅ **Activité 2**
+# ✅ **Activité 2**
 
 |Organiser son Environnement de Développement _Intégré_ (Integrated Development Environment, IDE) en identifiant les outils TIC constamment utilisés par les Développeurs Javascript. Installer ceux qui ne sont pas encore installés.|
 |:---|
@@ -70,7 +70,7 @@ console.log('Hello World Again!')
 - [x] Pour exécuter automatiquement le programme source, parcourir le menu dans cet ordre **Run** > **Run Without Debugging**[^7].
 <br>
 
-### 📚 Théorie
+## 📚 Théorie
 
 JavaScript est un langage de programmation **interprété** parce que le Moteur Javascript (**l'interpréteur**) exécute le programme source de haut en bas et imprime le résultat immédiatement. Alors qu'un **compilateur** transforme le programme source en un programme objet exécutable de façon autonome.
 
