@@ -53,7 +53,6 @@ Ces nombres sont tous de type **`bigint`** en Javascript.
 0xFEn
 0o376n
 ```
-<br>
 
 #### 🔡 Les textes : `string`
 
@@ -68,13 +67,11 @@ La paire d'accents graves **``` ` ```** permet d'inclure des **expressions** arb
 ```javascript
 `Le nombre de caractères dans le texte "Hello World!" est de ${ "Hello World!".length }` // Le nombre de caractères dans le texte "Hello World!" est de 12
 ```
-<br>
 
 #### 🔡 Les valeurs de vérité logique : `boolean`
 
 Le type booléen **`boolean`** n'a que **deux (_2_)** valeurs : **`true`** et **`false`**. Elles signifient respectivement **vrai** et **faux**. Elle permettent d’implémenter des décisions ou de stocker des valeurs binaires du genre oui et non.
 ######
-<br>
 
 #### 🔡 Les valeurs spéciales : `null` et `undefined`
 
@@ -82,13 +79,11 @@ Le type booléen **`boolean`** n'a que **deux (_2_)** valeurs : **`true`** et **
 **`undefined`** est une constante globale prédéfinie qui signifie qu'une variable n'est pas initialisée. La valeur **`undefined`** est le seule membre de son type. L'expression `typeof undefined` retourne **`undefined`**.<br>
 Les valeurs spéciales `null` et `undefined` seront revisitées plus tard.
 ######
-<br>
 
 #### 🔡 Les symboles : `symbol`
 
 Les types de données **`symbol`** n'ont pas de formes syntaxiques particulières. Pour obtenir la valeur d'un symbole, il faut utiliser la fonction **`Symbol()`**. Cette fonction ne renvoie jamais deux fois la même valeur, même si elle est exécutée avec le même argument. Les symboles seront revisités plus tard.
 ######
-<br>
 
 #### 🔡 Les objets : `object`
 
@@ -103,5 +98,3 @@ Les types de données en JavaScript peuvent être divisés en deux catégories :
 |Les symboles| |
 |La valeur nulle| |
 |La valeur indéfinie| |
-
-<br>
