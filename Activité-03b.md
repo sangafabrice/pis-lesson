@@ -100,6 +100,7 @@ L'operateur **`new`** est utilisé pour creer des instances d'objets
 L'objet global est créé lorsque le moteur Javascript commence et dépendamment de l’environnement d'exécution, il a un nom différent :
 - **`global`** en NodeJS ;
 - **`window`** dans la console de DevTools.
+- **`globalThis`** pour les deux.
 
 ```javascript
 new Date() // L'instance représentant la date d'aujourd'hui
