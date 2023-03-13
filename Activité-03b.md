@@ -108,7 +108,7 @@ new Date() // L'instance représentant la date d'aujourd'hui
 
 ## Resumé
 
-Les types de données en JavaScript peuvent être divisés en deux catégories : les types **primitifs** et les types **objets**. Les types primitifs de JavaScript incluent des nombres, des chaînes de texte et les valeurs de vérité booléennes, la valeur nulle et la valeur indéfinie. Elles sont primitives parce qu'elles ne changent pas, contrairement aux objets.
+Les types de données en JavaScript peuvent être divisés en deux catégories : les types **primitifs** et les types **objets**. Les types primitifs de JavaScript incluent les nombres, des chaînes de caractères et les valeurs de vérité booléennes, la valeur nulle et la valeur indéfinie. Elles sont primitives parce qu'elles ne changent pas, contrairement aux objets.
 
 |Types primitifs|
 |:---|
@@ -126,4 +126,4 @@ Pour plus d'information suivre les liens suivant [W3Schools.com : Javascript Dat
 
 [^1]: Un [littéral](https://fr.wikipedia.org/wiki/Litt%C3%A9ral_(programmation)) est une notation pour représenter une valeur fixe.
 [^2]: Une expression est une phrase en Javascript qui peut être évaluée et produire une valeur.
-[^3]: Au fait `undefined` équivaut à `global.undefined` dans NodeJS ou `window.undefined` dans la console de DevTools.
+[^3]: Au fait `undefined` équivaut à `globalThis.undefined`.
