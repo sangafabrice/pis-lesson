@@ -92,4 +92,6 @@ typeof Symbol('propertyname')
 typeof null
 typeof [1, 2, 'a', 3, true]
 typeof { nom: 'Omar', age: 16, hobby: 'football'}
+typeof global // uniquement dans le REPL de NodeJS
+typeof Windows // uniquement dans la console de DevTools des navigateurs 
 ```
