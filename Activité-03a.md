@@ -96,3 +96,31 @@ typeof /^Hello/
 typeof global // uniquement dans le REPL de NodeJS
 typeof window // uniquement dans la console de DevTools des navigateurs 
 ```
+- [x] Les expressions suivantes sont **`true`**
+```javascript
+{ nom: 'Omar', age: 16, hobby: 'football'} instanceof Object
+[1, 2, 'a', 3, true] instanceof Array
+typeof { nom: 'Omar', age: 16, hobby: 'football'}
+/^Hello/ instanceof RegExp
+global instanceof Object // uniquement dans le REPL de NodeJS
+window instanceof Object // uniquement dans la console de DevTools des navigateurs 
+```
+- [x] Les expressions suivantes sont **`false`**
+```javascript
+254 instanceof Number
+'Hello World' instanceof String
+true instanceof Boolean
+Symbol('pr') instanceof Symbol
+```
+- [x] Les expressions suivantes produisent des messages d'erreur
+```javascript
+null instanceof null
+undefined instanceof undefined
+```
+- [x] Les expressions suivantes sont **`true`**
+```javascript
+new Number(254) instanceof Number
+new String('Hello World') instanceof String
+new Boolean(true) instanceof Boolean
+new Date() instanceof Date
+```
