@@ -4,7 +4,7 @@
 
 #### 🔢 Les nombres : `'number'` and `'bigint'`
 
-Les valeurs littérales suivantes sont toutes de type **`number`** en Javascript.
+Les littéraux[^1] suivants sont tous de type **`number`** en Javascript.
 ```javascript
 254 // Nombre entier décimal
 0xFE // Nombre entier hexadécimal (FE)₁₆ et égal à 254
@@ -41,8 +41,8 @@ Le **tiret de 8** peut-être utilisé pour améliorer la lisibilité des nombres
 <sup>La barre orange représente l'ensemble des nombres à virgule flottantes qui peuvent être représentés correctement en Javascript.</sup>
 
 ######
-Les nombres entiers de type **`bigint`** ont la lettre **`n`** minuscule à la fin. Ce type de donnée peut représenter des nombres au-delà des limites du type **`number`**.<br>
-Les valeurs littérales suivantes sont des nombres de type **`bigint`** en Javascript.
+Les littéraux qui représentent les nombres entiers de type **`bigint`** ont la lettre **`n`** minuscule à la fin. Ce type de donnée peut représenter des nombres au-delà des limites du type **`number`**.<br>
+Les littéraux suivants sont des nombres de type **`bigint`** en Javascript.
 ```javascript
 9007199254740993n
 9_007_199_254_740_993n
@@ -57,44 +57,48 @@ Les valeurs littérales suivantes sont des nombres de type **`bigint`** en Javas
 #### 🔡 Les textes : `string`
 
 Pour inclure des chaînes de caractères **`string`** dans un programme en Javascript, il suffit de les entourer d'une paire de simples apostrophes **`'`**, ou d'une paire de doubles apostrophes **`"`**, ou d'une paire d'accents graves **``` ` ```**.<br>
-Les textes suivants sont de type **`string`** en Javascript.
+Les littéraux suivants sont de type **`string`** en Javascript.
 ```javascript
 'Hello World!'
 "Hello World!"
 `Hello World!`
 ```
-La paire d'accents graves **``` ` ```** permet d'inclure des **expressions** arbitraires dans le texte évalué. Les expressions sont entourées par des accolades précédés par le signe du dollar **`${...}`**.
+La paire d'accents graves **``` ` ```** permet d'inclure des **expressions**[^2] arbitraires dans le texte évalué. Les instructions sont entourées par des accolades précédées par le signe du dollar **`${...}`**.
 ```javascript
-`Le nombre de caractères dans le texte "Hello World!" est de ${ "Hello World!".length }` // Le nombre de caractères dans le texte "Hello World!" est de 12
+`Le nombre de caractères dans le texte "Hello World!" est de ${ longueur = "Hello World!".length }` // Le nombre de caractères dans le texte "Hello World!" est de 12
 ```
 
 #### 🔡 Les valeurs de vérité logique : `boolean`
 
-Le type booléen **`boolean`** n'a que **deux (_2_)** valeurs : **`true`** et **`false`**. Elles signifient respectivement **vrai** et **faux**. Elle permettent d’implémenter des décisions ou de stocker des valeurs binaires du genre oui et non.
+Le type booléen **`boolean`** n'a que **deux (_2_)** littéraux : **`true`** et **`false`**. Elles signifient respectivement **vrai** et **faux**. Elle permettent d’implémenter des décisions ou de stocker des valeurs binaires du genre oui et non.
 ######
 
 #### 🔡 Les valeurs spéciales : `null` et `undefined`
 
-**`null`** est un mot-clé et indique l'absence de valeur : _rien_, _vide_ ou _valeur inconnue_. La valeur **`null`** est le seule membre de son type. Ce n'est pas un objet malgré le fait que `typeof null` retourne `'object'`.<br>
-**`undefined`** est une constante globale prédéfinie qui signifie qu'une variable n'est pas initialisée. La valeur **`undefined`** est le seule membre de son type. L'expression `typeof undefined` retourne **`undefined`**.<br>
-Les valeurs spéciales `null` et `undefined` seront revisitées plus tard.
+**`null`** est un **mot-clé** et indique l'**absence de valeur** : _rien_, _vide_ ou _valeur inconnue_. Le littéral **`null`** est le seul membre de son type. Ce n'est pas un objet malgré le fait que `typeof null` retourne `'object'`.<br>
+**`undefined`** est une **constante globale**[^3] prédéfinie qui signifie qu'une variable n'est pas initialisée. Le littéral **`undefined`** est le seul membre de son type. L'expression `typeof undefined` retourne **`undefined`**.<br>
 ######
 
 #### 🔡 Les symboles : `symbol`
 
-Le type de donnée **`symbol`** n'ont pas de formes syntaxiques particulières. Pour obtenir la valeur d'un symbole, il faut utiliser la fonction **`Symbol()`**. Cette fonction ne retourne jamais deux fois la même valeur, même si elle est exécutée avec le même argument. Les symboles seront revisités plus tard.
+Le type de donnée **`symbol`** n'ont pas de formes syntaxiques particulières. Pour obtenir la valeur d'un symbole, il faut utiliser la fonction **`Symbol()`**. Cette fonction ne retourne jamais deux fois la même valeur, même si elle est exécutée avec le même argument.
 ######
 
 #### 🔡 Les objets : `object`
 
 Le type de données **`object`** contient l'ensemble :
-- des objets **`Object`** dont les valeurs littérales sont des couples de nom:valeur séparés par des virgules et entourés par des accolades **`{}`** ;
-- des tableaux **`Array`** dont les valeurs littérales sont des items séparés par des virgules et entourés par des crochets **`[]`** ;
+- des objets **`Object`** dont les littéraux sont des couples de nom:valeur séparés par des virgules et entourés par des accolades **`{}`** ;
+- des tableaux **`Array`** dont les littéraux sont des items séparés par des virgules et entourés par des crochets **`[]`** ;
+- des expressions régulières **`RegExp`** dont les littéraux sont entourees par des barres obliques **`/`** et se terminent optionnellement avec des marqueurs.
 - **etc**.
-
 ```javascript
-{ nom: 'Omar', age: 16, hobby: 'football'} // Valeur littérale représentant un objet de type Object
-[1, 2, 'a', 3, true] // // Valeur littérale représentant un objet de type Array
+{ nom: 'Omar', age: 16, hobby: 'football'} // Littéral représentant une instance de l'objet Object
+[1, 2, 'a', 3, true] // Littéral représentant une instance de l'objet Array
+/^Hello/ // Littéral représentant une instance de l'objet RegExp
+```
+L'operateur **`new`** est utilisé pour creer des instances d'objets
+```javascript
+new Date() // L'instance représentant la date d'aujourd'hui
 ```
 
 ## Resumé
@@ -111,5 +115,10 @@ Les types de données en JavaScript peuvent être divisés en deux catégories :
 |`null`|
 |`undefined`|
 ---
-Pour plus d'information suivre les liens suivant [W3Schools.com : Javascript Data Types](https://www.w3schools.com/js/js_datatypes.asp) or [Javascript.info : Les types de données](https://fr.javascript.info/types)
+Pour plus d'information suivre les liens suivant [W3Schools.com : Javascript Data Types](https://www.w3schools.com/js/js_datatypes.asp) ou [Javascript.info : Les types de données](https://fr.javascript.info/types)
+<br>
+<br>
 
+[^1]: Un [littéral](https://fr.wikipedia.org/wiki/Litt%C3%A9ral_(programmation)) est une notation pour représenter une valeur fixe.
+[^2]: Une expression est une phrase en Javascript qui peut être évaluée et produire une valeur.
+[^3]: Au fait `undefined` équivaut à `global.undefined` dans NodeJS ou `window.undefined` dans la console de DevTools.
