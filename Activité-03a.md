@@ -89,6 +89,7 @@ typeof Symbol('propertyname')
 ```
 - [x] Les instructions suivantes retournent toutes **`'object'`**
 ```javascript
+typeof null
 typeof [1, 2, 'a', 3, true]
 typeof { nom: 'Omar', age: 16, hobby: 'football'}
 ```
