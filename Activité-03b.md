@@ -96,12 +96,11 @@ Le type de données **`object`** contient l'ensemble :
 [1, 2, 'a', 3, true] // Littéral représentant une instance de l'objet Array
 /^Hello/ // Littéral représentant une instance de l'objet RegExp
 ```
-L'operateur **`new`** est utilisé pour creer des instances d'objets
+L’opérateur **`new`** est utilisé pour créer des instances d'objets
 L'objet global est créé lorsque le moteur Javascript commence et dépendamment de l’environnement d'exécution, il a un nom différent :
 - **`global`** en NodeJS ;
 - **`window`** dans la console de DevTools.
 - **`globalThis`** pour les deux.
-
 ```javascript
 new Date() // L'instance représentant la date d'aujourd'hui
 ```
