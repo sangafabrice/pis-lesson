@@ -24,7 +24,7 @@ Les littéraux[^1] suivants sont tous de type **`number`** en Javascript.
 9000000000000000000999 // Nombre entier et à virgule flottante et égal à (9 × 10²¹)
 9E21 // Nombre à virgule flottante et égal à (9 × 10²¹)
 ```
-Le **tiret de 8** peut-être utilisé pour améliorer la lisibilité des nombres.
+Le **sous-tiret** peut-être utilisé pour améliorer la lisibilité des nombres.
 ```javascript
 9_007_199_254_740_992 // Est égal à (9 007 199 254 740 992)
 1.797_693_134_862_315_700e308 // Est égal à (1.7976931348623157 × 10³⁰⁸)
