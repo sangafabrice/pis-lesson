@@ -87,7 +87,7 @@ Le type de donnée **`symbol`** n'ont pas de formes syntaxiques particulières. 
 #### 🔡 Les objets : `object`
 
 Le type de données **`object`** contient l'ensemble :
-- des objets **`Object`** dont les littéraux sont des couples de nom:valeur séparés par des virgules et entourés par des accolades **`{}`** ;
+- des objets **`Object`** dont les littéraux sont des couples de nom:valeur (les propriétés de l'objet) séparés par des virgules et entourés par des accolades **`{}`** ;
 - des tableaux **`Array`** dont les littéraux sont des items séparés par des virgules et entourés par des crochets **`[]`** ;
 - des expressions régulières **`RegExp`** dont les littéraux sont entourees par des barres obliques **`/`** et se terminent optionnellement avec des marqueurs.
 - **etc**.
