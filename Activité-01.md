@@ -19,7 +19,6 @@ console.log('Hello World!')
 ```js
 document.write('Hello World!')
 ```
-######
 
 ## 📚 Théorie
 
