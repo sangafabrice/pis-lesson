@@ -1,3 +1,4 @@
+# Ce programme doit etre exécuter dans PowerShell v5
 @'
 using System;  
 public class HelloWorld
