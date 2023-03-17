@@ -120,7 +120,7 @@ Les types de données en JavaScript peuvent être divisés en deux catégories :
 |`null`|
 |`undefined`|
 ---
-Pour plus d'information suivre les liens suivants [W3Schools.com : Javascript Data Types](https://www.w3schools.com/js/js_datatypes.asp) ou [Javascript.info : Les types de données](https://fr.javascript.info/types).
+Pour plus d'information suivre les liens suivants [W3Schools.com (Javascript Data Types)](https://www.w3schools.com/js/js_datatypes.asp) ou [Javascript.info (Les types de données)](https://fr.javascript.info/types).
 <br>
 <br>
 
