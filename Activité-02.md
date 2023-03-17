@@ -86,4 +86,4 @@ Visual Studio Code est un **Environnement de Développement** parce qu'il intèg
 [^4]: Un racourci clavier existe pour ouvrir le Terminal : **`Ctrl`+``` ` ```**.
 [^5]: Un racourci clavier existe pour ouvrir un dossier : **`Ctrl`+`O`**.
 [^6]: Un racourci clavier existe pour exécuter le programme source : **`Ctrl`+`F5`**.
-[^7]: Suivre ce lien pour avoir un exemple de processus de compilation d'un programme écrit en C#.
+[^7]: Suivre ce lien pour avoir [un exemple de processus de compilation d'un programme écrit en C#](https://github.com/sangafabrice/pis-lesson/blob/main/rsc/CompilationExample.ps1).
