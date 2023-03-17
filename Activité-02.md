@@ -76,22 +76,6 @@ JavaScript est un langage de programmation **interprété** parce que le Moteur 
 
 Un avantage des langages de programmation **interprétés** est qu'elles permettent de faire de la programmation interactive. C'est le cas de la console de DevTools ou le REPL de NodeJS. Un inconvénient est que l'exécution du programme compilé[^7] est plus rapide que l'exécution d'un programme source (non exploitable par la machine).
 
-Un example de code compilé : C# ![](./rsc/c-sharp-small.png)
-```powershell
-@'
-using System;  
-public class HelloWorld
-{  
-	public static void Main(string[] args)  
-	{  
-		Console.WriteLine("Hello World!");   
-	}  
-} 
-'@ > SourceCode.cs
-.\Start-Compile.ps1 .\sourcecode\sourcecode.cs .\ObjectCode.exe
-.\ObjectCode.exe
-```
-######
 Visual Studio Code est un **Environnement de Développement** parce qu'il intègre à la fois, un éditeur de texte, un environnement d'exécution des scripts Javascript, et un débogueur.
 <br>
 <br>
