@@ -92,7 +92,7 @@ public class HelloWorld
 .\ObjectCode.exe
 ```
 ######
-Visual Studio Code est un Environnement de Développement parce qu'il intègre à la fois, un éditeur de texte, un environnement d'exécution des scripts Javascript, et un débogueur.
+Visual Studio Code est un **Environnement de Développement** parce qu'il intègre à la fois, un éditeur de texte, un environnement d'exécution des scripts Javascript, et un débogueur.
 <br>
 <br>
 
