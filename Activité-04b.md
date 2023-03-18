@@ -35,3 +35,7 @@ C'est une **bonne pratique** d’éviter de nommer les variables en utilisant de
 Pour accéder à une liste exhaustive des mots-clés réservés, suivre le lien [Grammaire Lexicale](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Lexical_grammar#mots-cl%C3%A9s) et chercher _Mots-Clés_.
 
 Il est aussi recommandé de donner des noms plus descriptifs aux variables. Il est donc préférable de nommer une variable `tailleDuTriangle` qu'au lieu de `taille` ou `t` si la variable contient un littéral numérique représentant la taille d'un triangle.
+
+---
+
+Pour plus d'information suivre les liens suivants [W3Schools.com (Variables)](https://www.w3schools.com/js/js_datatypes.asp) ou [Javascript.info (Les variables)](https://fr.javascript.info/variables).
