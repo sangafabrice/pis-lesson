@@ -42,9 +42,14 @@ PI = 3.14;
 ```
 - [x] La différence entre `let` and `var` :
 ######
-Une variable déclarée avec `var` est une propriété de l'objet global.
+Une variable déclarée avec `var` ou sans mots-clés est une propriété de l'objet global.
 ```javascript
 var préNom = 'Adam';
+console.log(globalThis.préNom)
+console.log(préNom)
+```
+```javascript
+préNom = 'Adam';
 console.log(globalThis.préNom)
 console.log(préNom)
 ```
