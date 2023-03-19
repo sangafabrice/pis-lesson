@@ -20,4 +20,4 @@ Un algorigramme est un diagramme de flux qui représente l'enchaînement des op�
 
 Le pseudo-code est une façon de décrire un algorithme en langage presque naturel, sans référence à un langage de programmation en particulier.
 
-Étant donné que la prose du pseudo-code se rapproche du programmes sources en Javascript, nous y reviendront plus en détails plus tard.
+Étant donné que la prose du pseudo-code se rapproche du programmes source en Javascript, nous y reviendront plus en détails plus tard. Pour plus de details sur les pseudo-codes, visiter le lien suivant ; [Pseudo-code](https://info.blaisepascal.fr/pseudo-code).
