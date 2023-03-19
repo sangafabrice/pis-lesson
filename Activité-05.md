@@ -13,7 +13,12 @@ Ensemble de **règles opératoires** dont l'application permet de résoudre un p
 
 Un algorigramme est un diagramme de flux qui représente l'enchaînement des opérations et des décisions effectuées par un programme.
 
-1️⃣ Les symboles normalisés d'un algorigramme
+- [x] Les symboles normalisés d'un algorigramme
 
 |![](./rsc/algorigramme-symboles.jpg)|
+| :---: |
+
+- [x] Un exemple d'algorigramme
+
+|![](./rsc/algrigramme-exemple.jpg)|
 | :---: |
