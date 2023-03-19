@@ -64,6 +64,7 @@ VariableA = VariableB
 // Copier la valeur de la variable temporaire VariableTemp dans la VariableB.
 VariableB = VariableTemp
 
+// Retourner les valeurs de VariableA et de VariableB dans cet ordre.
 console.log(VariableA)
 console.log(VariableB)
 ```
