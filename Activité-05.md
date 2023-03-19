@@ -16,3 +16,6 @@ Un algorigramme est un diagramme de flux qui représente l'enchaînement des op�
 |![](./rsc/algorigramme-symboles.jpg)<br><sup>Les symboles normalisés d'un algorigramme</sup>|![](./rsc/algrigramme-exemple.jpg)<br><sup>Un exemple d'algorigramme</sup>|
 | :--- | ---: |
 
+### 📓 [Les Pseudo-codes](https://fr.wikipedia.org/wiki/Pseudo-code)
+
+Le pseudo-code est une façon de décrire un algorithme en langage presque naturel, sans référence à un langage de programmation en particulier.
