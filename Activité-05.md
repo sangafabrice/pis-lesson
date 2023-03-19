@@ -42,7 +42,6 @@ Début
     1. VariableTemp ← VariableA
     2. VariableA ← VariableB
     3. VariableB ← VariableTemp
-    4. Retourner VariableA et VariableB
 Fin
 ```
 En (1), créer une variable temporaire VariableTemp et l'initialiser avec la valeur de VariableA.<br>
