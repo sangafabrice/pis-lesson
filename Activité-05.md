@@ -57,8 +57,11 @@ Créer un fichier et le nommer `PermuteTwoVariables.js`
 let VariableA = 'A';
 let VariableB = 'B';
 
-const VariableTemp = VariableA 
+// Créer une variable temporaire VariableTemp et l'initialiser avec la valeur de VariableA.
+const VariableTemp = VariableA
+// Copier la valeur de la VariableB dans la VariableA.
 VariableA = VariableB
+// Copier la valeur de la variable temporaire VariableTemp dans la VariableB.
 VariableB = VariableTemp
 
 console.log(VariableA)
