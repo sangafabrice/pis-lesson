@@ -76,13 +76,16 @@ Créer un fichier et le nommer `permutation.js`
 let VariableA = 'A';
 let VariableB = 'B';
 
+// Début Algorithme
 // 1. Créer une variable temporaire VariableTemp et l'initialiser avec la valeur de VariableA.
 const VariableTemp = VariableA;
 // 2. Copier la valeur de la VariableB dans la VariableA.
 VariableA = VariableB;
 // 3. Copier la valeur de la variable temporaire VariableTemp dans la VariableB.
 VariableB = VariableTemp;
+// Fin Algorithme
 
+// Code ajouter pour permettre de visualiser la solution.
 // Retourner les valeurs de VariableA et de VariableB dans cet ordre.
 console.log(VariableA);
 console.log(VariableB);
