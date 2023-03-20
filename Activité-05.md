@@ -48,7 +48,12 @@ Lors des étapes 4️⃣ à 6️⃣, il est question de déterminer la performan
 
 |Écrire un algorithme qui effectue une [permutation](https://fr.wikipedia.org/wiki/Permutation_(informatique)) de valeurs entre deux variables.|
 |:--|
-
+###### <u>Une description de haut niveau</u> :
+Pour permuter les valeurs distinctes de deux variables VariableA et VariableB, il suffit de suivre ces étapes :
+1. Créer une variable temporaire VariableTemp et l'initialiser avec la valeur de VariableA ;
+2. Copier la valeur de la VariableB dans la VariableA. Ce qui détruit automatiquement la valeur initiale de VariableA et la remplace par la valeur de VariableB ;
+3. Copier la valeur de la variable temporaire VariableTemp dans la VariableB.
+###### <u>Un pseudo-code</u> :
 Le probleme a été simplifié à des valeurs spécifiques pour faciliter la compréhension.
 ```
 Algorithme - Permuter 2 variables
@@ -64,13 +69,7 @@ Début
     3. VariableB ← VariableTemp
 Fin
 ```
-En (1), créer une variable temporaire VariableTemp et l'initialiser avec la valeur de VariableA.<br>
-En (2), copier la valeur de la VariableB dans la VariableA. Ce qui détruit automatiquement la valeur initiale de VariableA et la remplace par la valeur de VariableB.<br>
-En (3), copier la valeur de la variable temporaire VariableTemp dans la VariableB.
-
-|Réécrire l'algorithme de Permutation informatique en JavaScript.|
-|:--|
-
+###### <u>Un programme source Javascript</u> :
 Créer un fichier et le nommer `permutation.js`
 ```javascript
 let VariableA = 'A';
