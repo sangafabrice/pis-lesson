@@ -34,6 +34,12 @@ En étant une forme d'expression d'un algorithme, le **programme source** a pour
 4️⃣ Affiner l'algorithme en ajoutant plus de détails.
 5️⃣ Implémenter l'algorithme en Javascript.
 6️⃣ Tester le programme source.
+
+Lors des étapes 4️⃣ à 6️⃣, il est question de déterminer la performance de l'algorithme qui est ou sera implémenté en Javascript :
+- [x] le temps d’exécution du programme source ;
+- [x] la consommation de la mémoire ;
+- [x] la précision des résultats ;
+- [x] l'extensibilité de la solution ;
 <br>
 <br>
 
