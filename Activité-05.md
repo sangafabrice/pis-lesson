@@ -39,7 +39,7 @@ Lors des étapes 4️⃣ à 6️⃣, il est question de déterminer la performan
 - [x] le temps d’exécution du programme source ;
 - [x] la consommation de la mémoire ;
 - [x] la précision des résultats ;
-- [x] l'extensibilité de la solution ;
+- [x] l'extensibilité de la solution.
 <br>
 <br>
 
