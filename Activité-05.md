@@ -32,7 +32,7 @@ Le pseudo-code est une façon de décrire un algorithme en langage presque natur
 
 Le probleme a été simplifié à des valeurs spécifiques pour faciliter la compréhension.
 ```
-Algorithme Permuter 2 variables
+Algorithme - Permuter 2 variables
 Entrée : Deux variables VariableA et VariableB ayant des valeurs distinctes.
          VariableA ← 'A'
          VariableB ← 'B'
