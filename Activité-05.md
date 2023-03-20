@@ -70,7 +70,7 @@ Début
 Fin
 ```
 ###### <u>Un programme source Javascript</u> :
-Créer un fichier et le nommer `permutation.js`
+Créer un fichier et le nommer `permutation.js` et y écrire :
 ```javascript
 // Déclarer et initialiser les variables avec des valeurs différentes.
 let VariableA = 'A';
