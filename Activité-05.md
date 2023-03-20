@@ -21,6 +21,19 @@ Un algorigramme est un diagramme de flux qui représente l'enchaînement des op�
 Le pseudo-code est une façon de décrire un algorithme en langage presque naturel, sans référence à un langage de programmation en particulier.
 
 Étant donné que la prose du pseudo-code se rapproche du programmes source en Javascript, nous y reviendront plus en détails plus tard. Pour plus de details sur les pseudo-codes, visiter le lien suivant ; [Pseudo-code](https://info.blaisepascal.fr/pseudo-code).
+
+### 📓 [Le étapes de conception d'un programme source](https://en.wikipedia.org/wiki/Algorithm#Design)
+
+En étant une forme d'expression d'un algorithme, le **programme source** a pour objectif principal de résoudre un problème bien spécifié. Lors des séances de Design, nous essaierons constamment de suivre les étapes suivantes :
+
+||
+|:---|
+1️⃣ Obtenir une description du problème.
+2️⃣ Analyser le problème.
+3️⃣ Développer un algorithme de haut niveau.
+4️⃣ Affiner l'algorithme en ajoutant plus de détails.
+5️⃣ Implémenter l'algorithme en Javascript.
+6️⃣ Tester le programme source.
 <br>
 <br>
 
