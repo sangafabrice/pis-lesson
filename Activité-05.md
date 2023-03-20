@@ -70,7 +70,7 @@ Début
 Fin
 ```
 ###### <u>Un programme source Javascript</u> :
-Créer un fichier et le nommer `permutation.js` et y écrire :
+- [x] Créer un fichier et le nommer `permutation.js` et y écrire :
 ```javascript
 // Déclarer et initialiser les variables avec des valeurs différentes.
 let VariableA = 'A';
@@ -87,6 +87,6 @@ VariableB = VariableTemp;
 
 // Code ajouter pour permettre de visualiser la solution.
 // Retourner les valeurs de VariableA et de VariableB dans cet ordre.
-console.log(VariableA);
-console.log(VariableB);
+console.log(VariableA, VariableB);
 ```
+- [x] Exécuter le script en utilisant [JS Bin](https://jsbin.com/cubedorifu/edit?js,console). 
