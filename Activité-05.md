@@ -30,6 +30,7 @@ Le pseudo-code est une façon de décrire un algorithme en langage presque natur
 |Écrire un algorithme qui effectue une [permutation](https://fr.wikipedia.org/wiki/Permutation_(informatique)) de valeurs entre deux variables.|
 |:--|
 
+Le probleme a été simplifié à des valeurs spécifiques pour faciliter la compréhension.
 ```
 Algorithme Permuter 2 variables
 Entrée : Deux variables VariableA et VariableB ayant des valeurs distinctes.
