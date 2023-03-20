@@ -31,7 +31,7 @@ Le pseudo-code est une façon de décrire un algorithme en langage presque natur
 |:--|
 
 ```
-Algorithme PermuteTwoVariables
+Algorithme Permuter 2 variables
 Entrée : Deux variables VariableA et VariableB ayant des valeurs distinctes.
          VariableA ← 'A'
          VariableB ← 'B'
@@ -51,7 +51,7 @@ En (3), copier la valeur de la variable temporaire VariableTemp dans la Variable
 |Réécrire l'algorithme de Permutation informatique en JavaScript.|
 |:--|
 
-Créer un fichier et le nommer `PermuteTwoVariables.js`
+Créer un fichier et le nommer `permutation.js`
 ```javascript
 let VariableA = 'A';
 let VariableB = 'B';
