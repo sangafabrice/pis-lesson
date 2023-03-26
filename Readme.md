@@ -9,3 +9,6 @@
 #### 🏠 [**À la maison : La déclaration `switch`**](https://fr.javascript.info/switch)
 #### 🏠 [**À la maison : Les boucles `while` et `for`**](https://fr.javascript.info/while-for)
 #### 🏠 [**À la maison : La boucle `for..of`**](https://www.w3schools.com/js/js_loop_forof.asp)
+#### 🏠 [**À la maison : Les opérateurs de base, mathématiques**](https://fr.javascript.info/operators)
+#### 🏠 [**À la maison : Les comparaisons**](https://fr.javascript.info/comparison)
+#### 🏠 [**À la maison : Les opérateurs logiques**](https://fr.javascript.info/logical-operators)
