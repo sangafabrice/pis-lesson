@@ -59,7 +59,7 @@ Pour permuter les valeurs distinctes de deux variables VariableA et VariableB, i
 |![](./rsc/permutation-algorithme.jpg)|
 | :--- |
 ###### <u>Un pseudo-code</u> :
-Le probleme a été simplifié à des valeurs spécifiques pour faciliter la compréhension.
+Le problème a été simplifié à des valeurs spécifiques pour faciliter la compréhension.
 ```
 Algorithme - Permuter 2 variables
 Entrée : Deux variables VariableA et VariableB ayant des valeurs distinctes.
