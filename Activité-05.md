@@ -20,7 +20,9 @@ Un algorigramme est un diagramme de flux qui représente l'enchaînement des op�
 
 Le pseudo-code est une façon de décrire un algorithme en langage presque naturel, sans référence à un langage de programmation en particulier.
 
-Étant donné que la prose du pseudo-code se rapproche du programmes source en Javascript, nous y reviendront plus en détails plus tard. Pour plus de details sur les pseudo-codes, visiter le lien suivant ; [Pseudo-code](https://info.blaisepascal.fr/pseudo-code).
+Une [**structure de contrôle**](https://docs.google.com/presentation/d/1ZV0DokzCjdflZ4arLgz8uYwmNDgEr7dp/edit?usp=share_link&ouid=108954906528513046604&rtpof=true&sd=true) est une commande qui contrôle l'ordre dans lequel les différentes instructions d'un algorithme sont exécutées.
+
+Pour plus de details sur les pseudo-codes, visiter le lien suivant ; [Pseudo-code](https://info.blaisepascal.fr/pseudo-code).
 
 ### 📓 [Le étapes de conception d'un programme source](https://en.wikipedia.org/wiki/Algorithm#Design)
 
