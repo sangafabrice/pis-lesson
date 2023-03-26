@@ -5,3 +5,7 @@
 #### 🏠 [**À la maison : La structure du code en Javascript (instructions, points virgules, commentaires)**](https://fr.javascript.info/structure)
 #### 📚 [**Théorie : l'Algorithme**](https://github.com/sangafabrice/pis-lesson/blob/main/Activit%C3%A9-05.md)
 #### 📚 [**Théorie : les structures de contrôle en JavaScript**](https://docs.google.com/presentation/d/1OQdEbvvFbq1OIieIx3Bp_l6lc9Y8nHBo/edit?usp=share_link&ouid=108954906528513046604&rtpof=true&sd=true)
+#### 🏠 [**À la maison : La branche conditionnelle `if`**](https://fr.javascript.info/ifelse)
+#### 🏠 [**À la maison : La déclaration `switch`**](https://fr.javascript.info/switch)
+#### 🏠 [**À la maison : Les boucles `while` et `for`**](https://fr.javascript.info/while-for)
+#### 🏠 [**À la maison : La boucle `for..of`**](https://www.w3schools.com/js/js_loop_forof.asp)
