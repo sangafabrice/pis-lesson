@@ -4,4 +4,4 @@
 #### ✅ [**Activité 4a**](https://github.com/sangafabrice/pis-lesson/blob/main/Activit%C3%A9-04a.md) et [**Activité 4b**](https://github.com/sangafabrice/pis-lesson/blob/main/Activit%C3%A9-04b.md)
 #### 🏠 [**À la maison : La structure du code en Javascript (instructions, points virgules, commentaires)**](https://fr.javascript.info/structure)
 #### 📚 [**Théorie : l'Algorithme**](https://github.com/sangafabrice/pis-lesson/blob/main/Activit%C3%A9-05.md)
-#### 📚 [**Théorie : les structures de contrôle en JavaScript**](https://github.com/sangafabrice/pis-lesson/blob/main/Activit%C3%A9-06.md)
+#### 📚 [**Théorie : les structures de contrôle en JavaScript**](https://docs.google.com/presentation/d/1OQdEbvvFbq1OIieIx3Bp_l6lc9Y8nHBo/edit?usp=share_link&ouid=108954906528513046604&rtpof=true&sd=true)
