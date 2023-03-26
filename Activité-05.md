@@ -55,6 +55,9 @@ Pour permuter les valeurs distinctes de deux variables VariableA et VariableB, i
 1. Créer une variable temporaire VariableTemp et l'initialiser avec la valeur de VariableA ;
 2. Copier la valeur de la VariableB dans la VariableA. Ce qui détruit automatiquement la valeur initiale de VariableA et la remplace par la valeur de VariableB ;
 3. Copier la valeur de la variable temporaire VariableTemp dans la VariableB.
+###### <u>Un Algorigramme</u> :
+|![](./rsc/permutation-algorithme.jpg)|
+| :--- |
 ###### <u>Un pseudo-code</u> :
 Le probleme a été simplifié à des valeurs spécifiques pour faciliter la compréhension.
 ```
