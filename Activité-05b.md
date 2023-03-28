@@ -3,7 +3,7 @@
 |Écrire un algorithme qui effectue une [permutation](https://fr.wikipedia.org/wiki/Permutation_(informatique)) de valeurs entre deux variables.|
 |:--|
 
-|![](./rsc/Permutation.gif)|
+|![](./rsc/permutation.gif)|
 | :--- |
 
 ###### <u>Une description de haut niveau</u> :
