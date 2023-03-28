@@ -3,7 +3,7 @@
 #### 🏠 [**À la maison : Les types de données**](https://fr.javascript.info/types)
 #### 🏠 [**À la maison : Les variables**](https://fr.javascript.info/variables)
 #### 🏠 [**À la maison : La structure du code en Javascript**](https://fr.javascript.info/structure)
-#### ✅ [**Activité 3 : Les opérateurs `typeof` et `instanceof`**](https://github.com/sangafabrice/pis-lesson/blob/main/Activit%C3%A9-03a.md)
+#### ✅ [**Activité 3 : Les opérateurs `typeof`, `instanceof` et `new`**](https://github.com/sangafabrice/pis-lesson/blob/main/Activit%C3%A9-03a.md)
 #### 📚 [**Théorie : Les Types de Données**](https://github.com/sangafabrice/pis-lesson/blob/main/Activit%C3%A9-03b.md)
 #### ✅ [**Activité 4a**](https://github.com/sangafabrice/pis-lesson/blob/main/Activit%C3%A9-04a.md) et [**Activité 4b : Les Variables**](https://github.com/sangafabrice/pis-lesson/blob/main/Activit%C3%A9-04b.md)
 #### 📚 [**Théorie : l'Algorithme**](https://github.com/sangafabrice/pis-lesson/blob/main/Activit%C3%A9-05.md)
