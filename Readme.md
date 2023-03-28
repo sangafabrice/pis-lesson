@@ -1,8 +1,10 @@
 #### ✅ [**Activité 1 : Une Introduction à JavaScript**](https://github.com/sangafabrice/pis-lesson/blob/main/Activit%C3%A9-01.md)
 #### ✅ [**Activité 2 : L'Environnement de Développement**](https://github.com/sangafabrice/pis-lesson/blob/main/Activit%C3%A9-02.md)
+---
 #### 🏠 [**À la maison : Les types de données**](https://fr.javascript.info/types)
 #### 🏠 [**À la maison : Les variables**](https://fr.javascript.info/variables)
 #### 🏠 [**À la maison : La structure du code en Javascript**](https://fr.javascript.info/structure)
+---
 #### ✅ [**Activité 3 : Les opérateurs `typeof`, `instanceof` et `new`**](https://github.com/sangafabrice/pis-lesson/blob/main/Activit%C3%A9-03a.md)
 #### 📚 [**Théorie : Les Types de Données**](https://github.com/sangafabrice/pis-lesson/blob/main/Activit%C3%A9-03b.md)
 #### ✅ [**Activité 4 : Les mots-clés `let`, `const` et `var`**](https://github.com/sangafabrice/pis-lesson/blob/main/Activit%C3%A9-04a.md)
