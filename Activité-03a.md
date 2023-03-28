@@ -19,8 +19,6 @@ typeof 1.9e+15
 typeof 1.9E+15
 typeof 9e21
 typeof 9E21
-typeof NaN
-typeof Infinity
 ```
 ```javascript
 typeof 9_007_199_254_740_992
