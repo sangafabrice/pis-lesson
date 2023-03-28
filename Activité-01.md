@@ -29,7 +29,7 @@ Le **Langage de Programmation** permet d'écrire un **code source** qui est anal
 ######
 
 ## 📺 Vidéos
-|[![](./rsc/js-intro.JPG)](https://www.youtube.com/watch?v=-eEx3yRZ-sE)|![](./rsc/js-devtools.JPG)|
+|[![](./rsc/js-intro.JPG)](https://www.youtube.com/watch?v=-eEx3yRZ-sE)|[![](./rsc/js-devtools.JPG)](https://www.youtube.com/watch?v=OFj8hFVS1KY)|
 |:---|---:|
 <br>
 <br>
