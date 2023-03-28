@@ -2,6 +2,10 @@
 
 |Écrire un algorithme qui effectue une [permutation](https://fr.wikipedia.org/wiki/Permutation_(informatique)) de valeurs entre deux variables.|
 |:--|
+
+|![](./rsc/Permutation.gif)|
+| :--- |
+
 ###### <u>Une description de haut niveau</u> :
 Pour permuter les valeurs distinctes de deux variables VariableA et VariableB, il suffit de suivre ces étapes :
 1. Créer une variable temporaire VariableTemp et l'initialiser avec la valeur de VariableA ;
