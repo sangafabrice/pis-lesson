@@ -9,12 +9,14 @@
 #### ✅ [**Activité 4 : Les mots-clés `let`, `const` et `var`**](https://github.com/sangafabrice/pis-lesson/blob/main/Activit%C3%A9-04a.md)
 #### 📚 [**Théorie : Les Variables**](https://github.com/sangafabrice/pis-lesson/blob/main/Activit%C3%A9-04b.md)
 ---
-#### 📚 [**Théorie : l'Algorithme**](https://github.com/sangafabrice/pis-lesson/blob/main/Activit%C3%A9-05.md)
-#### 📚 [**Théorie : les structures de contrôle en JavaScript**](https://docs.google.com/presentation/d/1OQdEbvvFbq1OIieIx3Bp_l6lc9Y8nHBo/edit?usp=share_link&ouid=108954906528513046604&rtpof=true&sd=true)
+#### 🏠 [**À la maison : Les opérateurs de base, mathématiques**](https://fr.javascript.info/operators)
+#### 🏠 [**À la maison : Les comparaisons**](https://fr.javascript.info/comparison)
+#### 🏠 [**À la maison : Les opérateurs logiques**](https://fr.javascript.info/logical-operators)
+---
+#### 📚 [**Théorie : L'Algorithme**](https://github.com/sangafabrice/pis-lesson/blob/main/Activit%C3%A9-05.md)
+#### 📚 [**Théorie : Les Structures de Contrôle en JavaScript**](https://docs.google.com/presentation/d/1OQdEbvvFbq1OIieIx3Bp_l6lc9Y8nHBo/edit?usp=share_link&ouid=108954906528513046604&rtpof=true&sd=true)
 #### 🏠 [**À la maison : La branche conditionnelle `if`**](https://fr.javascript.info/ifelse)
 #### 🏠 [**À la maison : La déclaration `switch`**](https://fr.javascript.info/switch)
 #### 🏠 [**À la maison : Les boucles `while` et `for`**](https://fr.javascript.info/while-for)
 #### 🏠 [**À la maison : La boucle `for..of`**](https://www.w3schools.com/js/js_loop_forof.asp)
-#### 🏠 [**À la maison : Les opérateurs de base, mathématiques**](https://fr.javascript.info/operators)
-#### 🏠 [**À la maison : Les comparaisons**](https://fr.javascript.info/comparison)
-#### 🏠 [**À la maison : Les opérateurs logiques**](https://fr.javascript.info/logical-operators)
+
