@@ -1,7 +1,7 @@
 #### ✅ [**Activité 1 : Une Introduction à JavaScript**](https://github.com/sangafabrice/pis-lesson/blob/main/Activit%C3%A9-01.md)
 #### ✅ [**Activité 2 : L'Environnement de Développement**](https://github.com/sangafabrice/pis-lesson/blob/main/Activit%C3%A9-02.md)
 #### 🏠 [**À la maison : Les types de données**](https://fr.javascript.info/types)
-#### 🏠 [**À la maison : Les variables**](https://fr.javascript.info//variables)
+#### 🏠 [**À la maison : Les variables**](https://fr.javascript.info/variables)
 #### ✅ [**Activité 3a**](https://github.com/sangafabrice/pis-lesson/blob/main/Activit%C3%A9-03a.md) et [**Activité 3b : Les Types de Données**](https://github.com/sangafabrice/pis-lesson/blob/main/Activit%C3%A9-03b.md)
 #### ✅ [**Activité 4a**](https://github.com/sangafabrice/pis-lesson/blob/main/Activit%C3%A9-04a.md) et [**Activité 4b : Les Variables**](https://github.com/sangafabrice/pis-lesson/blob/main/Activit%C3%A9-04b.md)
 #### 🏠 [**À la maison : La structure du code en Javascript**](https://fr.javascript.info/structure)
