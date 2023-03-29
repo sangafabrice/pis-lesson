@@ -20,5 +20,6 @@
 #### 🏠 [**À la maison : La boucle `for..of`**](https://www.w3schools.com/js/js_loop_forof.asp)
 #### 📚 [**Théorie : Les Structures de Contrôle en JavaScript**](https://docs.google.com/presentation/d/1OQdEbvvFbq1OIieIx3Bp_l6lc9Y8nHBo/edit?usp=share_link&ouid=108954906528513046604&rtpof=true&sd=true)
 #### ✅ [**Activité 5 : La Permutation de Variables**](https://github.com/sangafabrice/pis-lesson/blob/main/Activit%C3%A9-05b.md)
+#### ✅ [**Activité 6 : Compter les Nombres Entiers de 0 à un plus grand Nombre**](https://github.com/sangafabrice/pis-lesson/blob/main/Activit%C3%A9-06.md)
 
 
