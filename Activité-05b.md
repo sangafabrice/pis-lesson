@@ -50,4 +50,4 @@ VariableB = VariableTemp;
 // Retourner les valeurs de VariableA et de VariableB dans cet ordre.
 console.log(VariableA, VariableB);
 ```
-- [x] Exécuter le script en utilisant [JS Bin](https://jsbin.com/cubedorifu/edit?js,console). 
+- [x] Exécuter le script en utilisant [JS Bin](https://jsbin.com/sucipow/3/edit?js,console). 
